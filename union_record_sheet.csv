@@ -1,0 +1,4539 @@
+Union ID,Union Name,Upazila ID
+1,Amtali,1
+2,Arpangashia,1
+3,Atharagachhia,1
+4,Barabagi,1
+5,Chowra,1
+6,Gulisakhali,1
+7,Haldia,1
+8,Karaibaria,1
+9,Kukua,1
+10,Pancha Koralia,1
+11,Bamna,2
+12,Bukabunia,2
+13,Dauatala,2
+14,Ramna,2
+15,Aylapatakata,3
+16,Badarkhali,3
+17,Barguna,3
+18,Burir Char,3
+19,Dhalua,3
+20,Fuljhury,3
+21,Gaurichana,3
+22,Keorabunia,3
+23,M.Baliatali,3
+24,Naltona,3
+25,Betagi,4
+26,Bibichini,4
+27,Buramazumdar,4
+28,Hosnabad,4
+29,Kazirabad,4
+30,Mokamia,4
+31,Sariamuri,4
+32,Charduani,5
+33,Kakchira,5
+34,Kalmegha,5
+35,Kanthaltali,5
+36,Nachna Para,5
+37,Patharghata,5
+38,Raihanpur,5
+39,Pochakoralia,6
+40,Chotobogi,6
+41,Koroibaria,6
+42,Sharikkhali,6
+43,Borobogi,6
+44,Nishanbaria,6
+45,Sonakata,6
+46,Bagdha,7
+47,Bakal,7
+48,Gaila,7
+49,Rajiher,7
+50,Ratnapur,7
+51,Agarpur,8
+52,Chandpasha,8
+53,Dehergati,8
+54,Kedarpur,8
+55,Madhabpasha,8
+56,Rahmatpur,8
+57,Bhoypasha,9
+58,Charadi,9
+59,Charamaddi,9
+60,Darial,9
+61,Dudhal,9
+62,Durgapasha,9
+63,Faridpur,9
+64,Garuria,9
+65,Kabai,9
+66,Kalaskathi,9
+67,Nalua,9
+68,Niamati,9
+69,Padrishibpur,9
+70,Rangasree,9
+71,Banari Para,10
+72,Baisari Para,10
+73,Bisar Kandi,10
+74,Chakhar,10
+75,Iluhar,10
+76,Saliabakpur,10
+77,Sayedkathi,10
+78,Udoykathi,10
+79,Bardhi,11
+80,Batajore,11
+81,Chandshi,11
+82,Khanjapur,11
+83,Mahilara,11
+84,Nalchira,11
+85,Sarikal,11
+86,Bara Jalia,12
+87,Dhulkhola,12
+88,Guabaria,12
+89,Harinathpur,12
+90,Hizla Gourabdi,12
+91,Memania,12
+92,Kuchaipotty,12
+93,Chandpur,13
+94,Chandra Mohan,13
+95,Char Baria,13
+96,Char Kowa,13
+97,Char Monai,13
+98,Jagua,13
+99,Kashipur,13
+100,Roypasha Karapur,13
+101,Shayestabad,13
+102,Tungibaria,13
+103,Alimabad,14
+104,Andhar Manik,14
+105,Bhasan Char,14
+106,Bidyanandapur,14
+107,Chandpur,14
+108,Gobindapur,14
+109,Char Ekkaria,14
+110,Char Gopalpur,14
+111,Darichar Khajuria,14
+112,Jangalia,14
+113,Lata,14
+114,Mehendiganj,14
+115,Ulania,14
+116,Batamara,15
+117,Char Kalekhan,15
+118,Gachhua,15
+119,Kazir Char,15
+120,Muladi,15
+121,Nazirpur,15
+122,Safipur,15
+123,Bamrail,16
+124,Bara Kotha,16
+125,Gutia,16
+126,Harta,16
+127,Jolla,16
+128,Otra,16
+129,Satla,16
+130,Shikarpur,16
+131,Sholak,16
+132,Alinagar,17
+133,Bapta,17
+134,Char Syamaia,17
+135,Shibpur,17
+136,Dhania,17
+137,Illisha,17
+138,Illisha Paschim,17
+139,Kachia,17
+140,Uttar Dighaldi,17
+141,Rajapur,17
+142,Dakshin Dighaldi,17
+143,Bheduria,17
+144,Velumia,17
+145,Bara Manika,18
+146,Deula,18
+147,Gangapur,18
+148,Hassan Nagar,18
+149,Kachia,18
+150,Kutuba,18
+151,Pakshia,18
+152,Sachra,18
+153,Tobgi,18
+154,Aminabad,19
+155,Aslampur,19
+156,Char Kalmi,19
+157,Char Madras,19
+158,Char Manika,19
+159,Hazariganj,19
+160,Jinnaghar,19
+161,Kukuri-Mukuri,19
+162,Nilkamal,19
+163,Nurabad,19
+164,Osmanganj,19
+165,Rasulpur,19
+166,Eajpur,19
+167,Jahanpur,19
+168,Abdullahpur,19
+169,Abubakarpur,19
+170,Nazrul Nagar,19
+171,Mujib Nagar,19
+172,Dhalchar,19
+173,Char Khalifa,20
+174,Char Pata,20
+175,Hajipur,20
+176,Madonpur,20
+177,Uttar Joynagar,20
+178,Dakshin Joynagar,20
+179,Sayeddpur,20
+180,Medua,20
+181,Bhabanipur,20
+182,Badarpur,21
+183,Char Bhuta,21
+184,Dhali Gaurnagar,21
+185,Farazganj,21
+186,Kalma,21
+187,Lalmohan,21
+188,Lord Hardinge,21
+189,Ramaganj,21
+190,Paschim Char Umed,21
+191,Hajirhat,22
+192,Manpura,22
+193,Sakuchia,22
+194,Bara Malanchara,23
+195,Chanchra,23
+196,Chandpur,23
+197,Sonapur,23
+198,Shambhupur,23
+199,Basanda,24
+200,Bijoykati,24
+201,Gabkhan Dhansiri,24
+202,Gabha Ramchandrapur,24
+203,Keora,24
+204,Kirtipasha,24
+205,Nabagram,24
+206,Nathullabad,24
+207,Ponabalia,24
+208,Sekherhat,24
+209,Amua,25
+210,Awrabunia,25
+211,Chenchri Rampur,25
+212,Kanthalia,25
+213,Patikhalghata,25
+214,Sauljalia,25
+215,Bhairabpasha,26
+216,Dapdapia,26
+217,Kulkathi,26
+218,Kusanghal,26
+219,Mollarhat,26
+220,Magar,26
+221,Nachan Mohal,26
+222,Ranapasha,26
+223,Siddhakathi,26
+224,Subidpur,26
+225,Baruia,27
+226,Galua,27
+227,Mathbari,27
+228,Rajapur,27
+229,Saturia,27
+230,Suktagarh,27
+231,Adabaria,28
+232,Boga,28
+233,Bauphal,28
+234,Daspara,28
+235,Dhulia,28
+236,Kanchi Para,28
+237,Kalaiya,28
+238,Kalisuri,28
+239,Kanakdia,28
+240,Keshabpur,28
+241,Madanpura,28
+242,Nowmala,28
+243,Nazirpur,28
+244,Surjyamani,28
+245,Alipura,29
+246,Bahrampur,29
+247,Banshbaria,29
+248,Betagi Sankipur,29
+249,Dashmina,29
+250,Rangopaldi,29
+251,Amkhola,30
+252,Bakulbaria,30
+253,Bara Baisdia,30
+254,Chalitabunia,30
+255,Char Kajal,30
+256,Chhota Baisdia,30
+257,Chiknikandi,30
+258,Dakua,30
+259,Galachipa,30
+260,Golkhali,30
+261,Panpatty,30
+262,Rangabali,30
+263,Ratandi Taltali,30
+264,Char Bishwas,30
+265,Char Montaj,30
+266,Gazalia,30
+267,Kallyankalas,30
+268,Chakamaiya,31
+269,Khaprabhanga,31
+270,Dhulaswar,31
+271,Lalua,31
+272,Lata Chapli,31
+273,Dhankhali,31
+274,Mithaganj,31
+275,Nilganj,31
+276,Tiakhali,31
+277,Amragachhia,32
+278,Deuli Subidkhali,32
+279,Kakrabunia,32
+280,Mazidbaria,32
+281,Madhabkhali,32
+282,Mirzaganj,32
+283,Badarpur,33
+284,Chhota Bighai,33
+285,Auliapur,33
+286,Itabaria,33
+287,Jainkathi,33
+288,Bara Bighai,33
+289,Kalikapur,33
+290,Kamalapur,33
+291,Lowkathi,33
+292,Lohalia,33
+293,Madarbunia,33
+294,Marichbunia,33
+295,Char Montaz,34
+296,Chalitabunia ,34
+297,Chhota Baisdia,34
+298,Bara Baisdia,34
+299,Rangabali,34
+300,Angaria,35
+301,Lebukhali,35
+302,Muradia,35
+303,Pangashia,35
+304,Bhandaria,36
+305,Bhitabaria,36
+306,Dhaoa,36
+307,Gauripur,36
+308,Ishri,36
+309,Nadmulla,36
+310,Telikhali,36
+311,Amrachuri,37
+312,Chira Para Parsaturia,37
+313,Kawkhali,37
+314,Sayna Raghunathpur,37
+315,Shialkathi,37
+316,Amragachhia,38
+317,Bara Machhua,38
+318,Betmore Rajpara,38
+319,Daudkhali,38
+320,Dhanisapa,38
+321,Gulishakhali,38
+322,Mathbaria,38
+323,Mirukhali,38
+324,Sapleza,38
+325,Tikikata,38
+326,Tushkhali,38
+327,Dirgha,39
+328,Purba Deulbaridobra,39
+329,Malikhali,39
+330,Matibhanga,39
+331,Nazirpur,39
+332,Sekhmatia,39
+333,Shankharikathi,39
+334,Sreeramkathi,39
+335,Durgapur,40
+336,Kadamtola,40
+337,Kalakhali,40
+338,Shankarpasha,40
+339,Sariktola,40
+340,Sikdar Mollik,40
+341,Toana,40
+342,Atghar Kutiana,41
+343,Baldia,41
+344,Daihari,41
+345,Guarekha,41
+346,Jalabari,41
+347,Samudaykati,41
+348,Sarengkati,41
+349,Sohagdal,41
+350,Sutiakathi,41
+351,Nesarabad (Swarupkathi),41
+352,Bali Para,42
+353,Parerhat,42
+354,Pattashi,42
+355,Alikadam,43
+356,Chokhyong,43
+357,Bandarban,44
+358,Kuhalong,44
+359,Rajvila,44
+360,Sholaka,44
+361,Tankabati,44
+362,Aziznagar,45
+363,Fasyakhali,45
+364,Gajalia,45
+365,Lama,45
+366,Sarai,45
+367,Rupashipara,45
+368,Baishari,46
+369,Dochhari,46
+370,Ghumdhum,46
+371,Naikhongchhari,46
+372,Alikhong,47
+373,Nowa Patang,47
+374,Rowangchhari,47
+375,Tarachha,47
+376,Ghyalanga,48
+377,Paindu,48
+378,Remakri,48
+379,Ruma,48
+380,Bali Para,49
+381,Remakri,49
+382,Thanchi,49
+383,Tindu,49
+384,Dakshin Akhaura,50
+385,Dharkhar,50
+386,Maniand,50
+387,Mogra,50
+388,Uttar Akhaura,50
+389,Dakshin Banchharampur,51
+390,Dariadaulat,51
+391,Pahariakandi,51
+392,Paschim Saifullakandi,51
+393,Paschim Rupasdi,51
+394,Paschim Ujan Char,51
+395,Dorikandi,51
+396,Purba Rupasdi,51
+397,Purba Ujan Char,51
+398,Salimabad,51
+399,Sonarampur,51
+400,Tezkhali,51
+401,Uttar Banchharampur,51
+402,Basudeb,52
+403,Budhanti,52
+404,Chandura,52
+405,Char Islampur,52
+406,Dakshin Natai,52
+407,Dakshin Shuhilpur,52
+408,Dakshin Singerbil,52
+409,Harashpur,52
+410,Machhihata,52
+411,Majlishpur,52
+412,Paharpur,52
+413,Pattan,52
+414,Purba Talsahar,52
+415,Ramrail,52
+416,Sadekpur,52
+417,Sultanpur,52
+418,Uttar Ichhapur,52
+419,Uttar Natai,52
+420,Budhal,52
+421,Bishnapur,52
+422,Chompok Nagar,52
+423,Badair,53
+424,Bayek,53
+425,Binauti,53
+426,Gopinathpur,53
+427,Kayempur,53
+428,Kharera,53
+429,Kuti,53
+430,Mehari,53
+431,Mulgram,53
+432,Barikandi,54
+433,Barail,54
+434,Biddyakut,54
+435,Birgaon,54
+436,Ibrahimpur,54
+437,Jinudpur,54
+438,Kaitala,54
+439,Krishnanagar,54
+440,Laur Fatehpur,54
+441,Natghar,54
+442,Paschim Nabinagar,54
+443,Purba Nabinagar,54
+444,Rasullabad,54
+445,Ratanpur,54
+446,Salimganj,54
+447,Satmura,54
+448,Shibpur,54
+449,Shyamgram,54
+450,Sreerampur,54
+451,Bolakot,55
+452,Burishwar,55
+453,Chapartala,55
+454,Chatalpar,55
+455,Dhar Mandal,55
+456,Fandauk,55
+457,Goalnagar,55
+458,Gokarna,55
+459,Guniauk,55
+460,Haripur,55
+461,Kunda,55
+462,Nasirnagar,55
+463,Purbabagh,55
+464,Akrail,56
+465,Chunta,56
+466,Kalikachchha,56
+467,Noagaon,56
+468,Pakshimul,56
+469,Sarail,56
+470,Shahbazpur,56
+471,Shahjadapur,56
+472,Uttar Panishwar,56
+473,Char Chartala,57
+474,Araisidha,57
+475,Talsahar Paschim,57
+476,Sharifpur Purba,57
+477,Ashugonj,57
+478,Lalpur,57
+479,Durgapur,57
+480,Bhudanty,58
+481,Chandura,58
+482,Ichapura,58
+483,Champaknagar,58
+484,Harashpur,58
+485,Pattan,58
+486,Singerbil,58
+487,Bishupor,58
+488,Charislampur,58
+489,Paharpur,58
+490,Ashikati,59
+491,Kalyanpur,59
+492,Baghadi,59
+493,Balia,59
+494,Bishnupur,59
+495,Chandra,59
+496,Hanar Char,59
+497,Ibrahimpur,59
+498,Maishadi,59
+499,Rajrajeshwar,59
+500,Shah Mahmudpur,59
+501,Rampur,59
+502,Sakua,59
+503,Tarpur Chandi,59
+504,Purba Baluthuba,60
+505,Paschim Baluthuba,60
+506,Purba Char Dukhia,60
+507,Paschim Char Dukhia,60
+508,Uttar Faridganj,60
+509,Dakshin Faridganj,60
+510,Uttar Gobindapur,60
+511,Dakshin Gobindapur,60
+512,Purba Gupti,60
+513,Paschim Gupti,60
+514,Uttar Paikpara,60
+515,Dakshin Paik Para,60
+516,Uttar Rupsa,60
+517,Dakshin Rupsa,60
+518,Purba Subidpur,60
+519,Paschim Subidpur,60
+520,Uttar Algi Durgapur,61
+521,Dakshin Algi Durgapur,61
+522,Char Bhairabi,61
+523,Haim Char,61
+524,Gazipur,61
+525,Nilkamal,61
+526,Purba Barkur,62
+527,Paschim Barkur,62
+528,Uttar Gandharabpur,62
+529,Dakshin Gandharbapur,62
+530,Hajiganj,62
+531,Hatila Paschim,62
+532,Hatila Purba,62
+533,Uttar Kalocho,62
+534,Dakshin Kalocho,62
+535,Uttar Rajgaon,62
+536,Bakila (Dakshin Rajargaon),62
+537,Ashrafpur,63
+538,Bitara,63
+539,Uttar Gohat,63
+540,Dakshin Gohat,63
+541,Uttar Kachua,63
+542,Dakshin Kachua,63
+543,Kadla,63
+544,Karia,63
+545,Pathair,63
+546,Purba Sahadebpur,63
+547,Paschim Sahadebpur,63
+548,Sachar,63
+549,Khadergaon,64
+550,Narayanpur,64
+551,Uttar Nayergaon,64
+552,Uttar Upadi,64
+553,Dakhsin Nayergaon,64
+554,Dakshin Upadi,64
+555,Baganbari,65
+556,Farajikandi,65
+557,Durgapur,65
+558,Purba Fatehpur,65
+559,Eklaspur,65
+560,Islamabad,65
+561,Jahirabad,65
+562,Kalakanda,65
+563,Mohanpur,65
+564,Sadullapur,65
+565,Satnal,65
+566,Sultanabad,65
+567,Paschim Fatehpur,65
+568,Gazra,65
+569,Chitoshi(E),66
+570,Chitoshi(W),66
+571,Uttar Meher,66
+572,Dakshin Meher,66
+573,Uttar Roysree,66
+574,Dakshin Roysree,66
+575,Uttar Suchi Para,66
+576,Dakshin Suchi Para,66
+577,Tamta,66
+578,Anowara,67
+579,Bairag,67
+580,Barakhain,67
+581,Barasat,67
+582,Burumchara,67
+583,Battali,67
+584,Chatari,67
+585,Haildhar,67
+586,Paraikora,67
+587,Roypur,67
+588,Juindandi,67
+589,Baharchhara,68
+590,Bailchhari,68
+591,Chambal,68
+592,Chhanua,68
+593,Gandamara,68
+594,Kalipur,68
+595,Amtali,68
+596,Khankhanabad,68
+597,Puichhari,68
+598,Pukuria,68
+599,Sadhanpur,68
+600,Saral,68
+601,Sekherkhil,68
+602,Silkup,68
+603,Ahla Karaldanga,69
+604,Amuchia,69
+605,Charandwip,69
+606,Purba Gomdandi,69
+607,Kadhurkhil,69
+608,Popadia,69
+609,Saroatali,69
+610,Shakpura,69
+611,Sreepur Kharandwip,69
+612,Paschim Gomdandi,69
+613,Bailtali,70
+614,Barkal,70
+615,Barama,70
+616,Dohazari,70
+617,Hashimpur,70
+618,Joara,70
+619,Kanchanabad,70
+620,Satbaria,70
+621,Abdullapur,71
+622,Bagan Bazar,71
+623,Baktapur,71
+624,Bhujpur,71
+625,Dantmara,71
+626,Dharmapur,71
+627,Dhurung,71
+628,Daulatpur,71
+629,Harwalchhari,71
+630,Jafatnagar,71
+631,Kanchan Nagar,71
+632,Lelang,71
+633,Nanupur,71
+634,Narayanhat,71
+635,Paindang,71
+636,Rangamatia,71
+637,Roushangiri,71
+638,Suabil,71
+639,Samitirhat,71
+640,Sundarpur,71
+641,Burir Char,72
+642,Chhipatali,72
+643,Chikandanti,72
+644,Dakshin Madrasha,72
+645,Dhalai,72
+646,Fatehpur,72
+647,Forhadabad,72
+648,Garduara,72
+649,Guman Mardan,72
+650,Hathazari,72
+651,Mekhal,72
+652,Mirzapur,72
+653,Nangalmora,72
+654,Shikarpur,72
+655,Uttar Madarsa,72
+656,Char Patharghata,73
+657,Shikalbaha,73
+658,Char Lakshya,73
+659,Juldha,73
+660,Bara Uthan,73
+661,Adhunagar,74
+662,Amirabad,74
+663,Barahatia,74
+664,Charamba,74
+665,Chunati,74
+666,Kalauzan,74
+667,Lohagara,74
+668,Padua,74
+669,Putibila,74
+670,Dhum,75
+671,Durgapur,75
+672,Haitkandi,75
+673,Hinguli,75
+674,Ichhakhali,75
+675,Karerhat,75
+676,Katachhara,75
+677,Khaiyachhara,75
+678,Mayani,75
+679,Mirsharai,75
+680,Mithanala,75
+681,Maghadia,75
+682,Osmanpur,75
+683,Saherkhali,75
+684,Wahedpur,75
+685,Zorwarganj,75
+686,Asia,76
+687,Baralia,76
+688,Bara Uthan,76
+689,Bhatikhain,76
+690,Chanhara,76
+691,Char Lakshya,76
+692,Char Patharghata,76
+693,Dhalghat,76
+694,Habilas Dwip,76
+695,Haidgaon,76
+696,Junglekhain,76
+697,Juldha,76
+698,Kachuai,76
+699,Kasiais,76
+700,Kelishahar,76
+701,Kharana,76
+702,Kolagaon,76
+703,Kusumpura,76
+704,Sikalbaha,76
+705,Sobhandandi,76
+706,South Bhurshi,76
+707,Jiri,76
+708,Betagi,77
+709,Chandraghona,77
+710,Hosnabad,77
+711,Kodala,77
+712,Mariamnagar,77
+713,Padua,77
+714,Parua,77
+715,Pomara,77
+716,Rajanagar,77
+717,Rangunia,77
+718,Sarapbhata,77
+719,Silak,77
+720,Islampur,77
+721,Dakshin Rajanagar,77
+722,Lalanagar,77
+723,Bagoan,78
+724,Binajuri,78
+725,Chikdair,78
+726,Dabua,78
+727,Purba Guzara,78
+728,Gahira,78
+729,Haludia,78
+730,Kadalpur,78
+731,Noajispur,78
+732,Noa Para,78
+733,Pahartali,78
+734,Raozan,78
+735,Urkirchar,78
+736,Paschim Guzara,78
+737,Amanullah,79
+738,Azimpur,79
+739,Bauria,79
+740,Gachhua,79
+741,Haramia,79
+742,Harispur,79
+743,Kalapania,79
+744,Magdhara,79
+745,Maitbhanga,79
+746,Musapur,79
+747,Rahmatpur,79
+748,Santoshpur,79
+749,Sarikait,79
+750,Urirchar,79
+751,Amilais,80
+752,Eochia,80
+753,Bazalia,80
+754,Charati,80
+755,Dhemsa,80
+756,Dharmapur,80
+757,Kaliais,80
+758,Kanchana,80
+759,Keochia,80
+760,Khagaria,80
+761,Madrasa,80
+762,Nalua,80
+763,Puranghar,80
+764,Chhadaha,80
+765,Satkania,80
+766,Sonakania,80
+767,Paschim Dhemsa,80
+768,Banshbaria,81
+769,Barabkunda,81
+770,Baraiardhala,81
+771,Bhatiari,81
+772,Kumira,81
+773,Muradpur,81
+774,Salimpur,81
+775,Sonaichhari,81
+776,Syedpur,81
+777,Badarkhali,105
+778,Barawtali,105
+779,Bheola Manik Char,105
+780,Bomobilchari,105
+781,Chiringa,105
+782,Dulhazara,105
+783,Purba Barabheola,105
+784,Fasiakhali,105
+785,Harbang,105
+786,Kakara,105
+787,Kaiarbil,105
+788,Khutakhali,105
+789,Lakhyarchar,105
+790,Saharbil,105
+791,Paschim Bara Bheola,105
+792,Demushia,105
+793,Konakhali,105
+794,Surajpur-Manikpur,105
+795,Bharuakhali,106
+796,Chaufaldandi,106
+797,Idgaon,106
+798,Jhilwanja,106
+799,Khurushkul,106
+800,Patali Machhuakhali,106
+801,Pokkhali,106
+802,Islampur,106
+803,Islamabad,106
+804,Jalalabad,106
+805,Ali Akbar Deli,107
+806,Baragop,107
+807,Dakshin Dhurung,107
+808,Kaiyarbil,107
+809,Lemsikhali,107
+810,Uttar Dhurung,107
+811,Chhoto Moheshkhali,108
+812,Bara Maheskhali,108
+813,Dhalghat,108
+814,Hoanak,108
+815,Kalarmarchhara,108
+816,Kutubjom,108
+817,Matarbari,108
+818,Shaplapur,108
+819,Chakmarkul,109
+820,Fatekharkul,109
+821,Garjania,109
+822,Idgar,109
+823,Joarianala,109
+824,Kachhapia,109
+825,Ghuniapalong,109
+826,Kowerkhope,109
+827,Rajarkul,109
+828,Rashidnagar,109
+829,Dakshin Mithachhari,109
+830,Baharchhara,110
+831,Nhila,110
+832,St.Martin Dwip,110
+833,Sabrang,110
+834,Teknaf,110
+835,Whykong,110
+836,Haldia Palong,111
+837,Jalia Palong,111
+838,Raja Palong,111
+839,Ratna Palong,111
+840,Palong Khali,111
+841,Bara Bakia,112
+842,Magnama,112
+843,Pekua,112
+844,Rajakhali,112
+845,Toitong,112
+846,Uzantia,112
+847,Shilkhali,112
+848,Adda,89
+849,Adra,89
+850,Aganagar,89
+851,Bhabanipur,89
+852,Deora,89
+853,Galimpur,89
+854,Chitodda,89
+855,Dakshin Jalam,89
+856,Uttar Khosbash,89
+857,Dakshin Khosbash,89
+858,Payalgachha,89
+859,Lakshmipur,89
+860,Uttar Shilmuri,89
+861,Dakshin Shilmuri,89
+862,Brahman Para,90
+863,Dulalpur,90
+864,Chandla,90
+865,Sidlai,90
+866,Madhabpur,90
+867,Malapara,90
+868,Sahebabad,90
+869,Shashidal,90
+870,Bakshimul,91
+871,Bharella,91
+872,Burichang,91
+873,Mainamati,91
+874,Mokam,91
+875,Pir Jatrapur,91
+876,Rajapur,91
+877,Sholanal,91
+878,Keronkhal,92
+879,Barera,92
+880,Bara Karai,92
+881,Juag,92
+882,Borkuit,92
+883,Etbarpur,92
+884,Madhya,92
+885,Gallai,92
+886,Nawabpur,92
+887,Mahichail,92
+888,Maijkhar,92
+889,Batagashi,92
+890,Suhilpur,92
+891,Alkara,93
+892,Batisha,93
+893,Cheora,93
+894,Gholpasha,93
+895,Gunabati,93
+896,Jagannath Dighi,93
+897,Kalikapur,93
+898,Kankapait,93
+899,Kashinagar,93
+900,Munshirhat,93
+901,Shubhapur,93
+902,Sreepur,93
+903,Ujirpur,93
+904,Barpara,94
+905,Uttar Daudkandi,94
+906,Gouripur,94
+907,Uttar Elliotganj,94
+908,Dakshin Elliotganj,94
+909,Jinglatali,94
+910,Goalmari,94
+911,Mohammadpur Purba,94
+912,Mohammadpur Paschim,94
+913,Purba Panchgachhia,94
+914,Paschim Panchgachhia,94
+915,Sundalpur,94
+916,Maruka,94
+917,Biteswar,94
+918,Padua,94
+919,Bhani,95
+920,Bara Shalghar,95
+921,Elahabad,95
+922,Barkamta,95
+923,Dhamti,95
+924,Sultanpur,95
+925,Fatehabad,95
+926,Gunaighar,95
+927,Bankot,95
+928,Mohonpur,95
+929,Jaforganj,95
+930,Rajmehar,95
+931,Rasulpur,95
+932,Subil,95
+933,Yusufpur,95
+934,Bhasania,96
+935,Asadpur,96
+936,Chanderchar,96
+937,Gharmora,96
+938,Dulalpur,96
+939,Ghagutia,96
+940,Mathabhanga,96
+941,Nilakhi,96
+942,Joypur,96
+943,Bakai,97
+944,Kandirpar,97
+945,Gobindapur,97
+946,Laksam,97
+947,Mudapfarganj,97
+948,Ajgara,97
+949,Uttardah,97
+950,Akubpur,98
+951,Andikot,98
+952,Purba Bangara,98
+953,Paschim Bangara,98
+954,Chapitala,98
+955,Darora (Purba),98
+956,Chhaliakandi,98
+957,Dhamghar,98
+958,Kamalla,98
+959,Jahapur,98
+960,Jatrapur,98
+961,Muradnagar,98
+962,Purba Nabipur,98
+963,Paschim Nabipur,98
+964,Paharpur,98
+965,Purba Purbadhair,98
+966,Paschim Purbadhair,98
+967,Uttar Ramchandrapur,98
+968,Dakshin Ramchandrapur,98
+969,Sreekail,98
+970,Tonki,98
+971,Babutiparha,98
+972,Adra,99
+973,Bangodda,99
+974,Bakshaganj,99
+975,Dhalua,99
+976,Daulkhar,99
+977,Jodda,99
+978,Mokara,99
+979,Nangalkot,99
+980,Peria,99
+981,Roykot,99
+982,Satbaria,99
+983,Heshakhal,99
+984,Amratali,100
+985,Dakshin Durgapur,100
+986,Jagannathpur,100
+987,Kalir Bazar,100
+988,Panchthubi,100
+989,Uttar Durgapur,100
+990,Barakanda,101
+991,Chandanpur,101
+992,Gobindapur,101
+993,Luterchar,101
+994,Radhanagar,101
+995,Manikerchar,101
+996,Chalibhanga,101
+997,Balarampur,102
+998,Bitikandi,102
+999,Jiarkandi,102
+1000,Karikandi,102
+1001,Satani,102
+1002,Jagatpur,102
+1003,Kalakandi,102
+1004,Majidpur,102
+1005,Narandia,102
+1006,Baishgaon,103
+1007,Hasnabad,103
+1008,Maisatua,103
+1009,Uttar Jhalam,103
+1010,Dakshin Jhalam,103
+1011,Laxmanpur,103
+1012,Nather Petua,103
+1013,Bipulasar,103
+1014,Sarashpur,103
+1015,Khila,103
+1016,Uttar Hawla,103
+1017,Gopal,113
+1018,Mohamaya,113
+1019,Pathannagar,113
+1020,Radhanagar,113
+1021,Subhapur,113
+1022,Daganbhuiyan,114
+1023,Joylashkara,114
+1024,Mathu Bhuiyan,114
+1025,Purba Chandrapur,114
+1026,Rajapur,114
+1027,Ramnagar,114
+1028,Sindurpur,114
+1029,Yakubpur,114
+1030,Baligaon,115
+1031,Dhalia,115
+1032,Dharmapur,115
+1033,Farhadnagar,115
+1034,Fazilpur,115
+1035,Kalidah,115
+1036,Kazirbag,115
+1037,Lemua,115
+1038,Matabi,115
+1039,Panchgachhiya,115
+1040,Chanua,115
+1041,Sarishadi,115
+1042,Chithalia,116
+1043,Baksh Mohammad,116
+1044,Mirzanagar,116
+1045,Amirabad,117
+1046,Bagdana,117
+1047,Char Chandira,117
+1048,Char Darbesh,117
+1049,Char Majlishpur,117
+1050,Mangalkandi,117
+1051,Matiganj,117
+1052,Nawabpur,117
+1053,Sonagazi,117
+1054,Amjadhat,118
+1055,Anandapur,118
+1056,Darbarpur,118
+1057,Fulgazi,118
+1058,G.M. Hat,118
+1059,Munshirhat,118
+1060,Babuchhara,119
+1061,Boalkhali,119
+1062,Dighinala,119
+1063,Kabakhali,119
+1064,Merun,119
+1065,Bhaibonchhara,120
+1066,Golabari,120
+1067,Kamalchhari,120
+1068,Khagrachhari,120
+1069,Perachhara,120
+1070,Barmachhari,121
+1071,Dulyatali,121
+1072,Laxmichhari,121
+1073,Kayangghat,122
+1074,Mahalchhari,122
+1075,Maschhari,122
+1076,Mubachhari,122
+1077,Sindukchhari,122
+1078,Batnatali,123
+1079,Manikchhari,123
+1080,Baranala,124
+1081,Belchhari,124
+1082,Guimara,124
+1083,Gumti,124
+1084,Matiranga,124
+1085,Tubalchhari,124
+1086,Taindang,124
+1087,Chengi,125
+1088,Latiban,125
+1089,Logang,125
+1090,Panchhari,125
+1091,Halfchhari,126
+1092,Pathachhara,126
+1093,Ramgarh,126
+1094,Bangakha,127
+1095,Basikpur,127
+1096,Bhabaniganj,127
+1097,Chandraganj,127
+1098,Charsahi,127
+1099,Char Ruhita,127
+1100,Dalalbazar,127
+1101,Datta Para,127
+1102,Dighali,127
+1103,Kushakhali,127
+1104,Laharkandi,127
+1105,Mandari,127
+1106,Uttar Hamchadi,127
+1107,Parbatinagar,127
+1108,Shakchar,127
+1109,Dakshin Hamchadi,127
+1110,Uttar Joypur,127
+1111,Bamni,128
+1112,Char Ababil Uttar,128
+1113,Char Bangshi Uttar,128
+1114,Char Mohana,128
+1115,Keroa,128
+1116,Roypur,128
+1117,Sonapur,128
+1118,Char Bangshi Dakshin,128
+1119,Char Ababil Dakshin,128
+1120,Char Pata,128
+1121,Bhadur,129
+1122,Bhatra,129
+1123,Bholakot,129
+1124,Chandipur,129
+1125,Darbeshpur,129
+1126,Ichhapur,129
+1127,Kanchanpur,129
+1128,Karpara,129
+1129,Lamchar,129
+1130,Noagaon,129
+1131,Bara Kheri,130
+1132,Char Abdullah,130
+1133,Char Alexandar,130
+1134,Char Algi,130
+1135,Char Badam,130
+1136,Char Gazi,130
+1137,Char Ramiz,130
+1138,Char Poragacha,130
+1139,Char Falcon,131
+1140,Patwary Hat,131
+1141,Char Kadira,131
+1142,Torabganj,131
+1143,Char Kalkini,131
+1144,Shaeber Hat,131
+1145,Char Lawrence,131
+1146,Char Martin,131
+1147,Hajirhat,131
+1148,Alyarpur,132
+1149,Amanullapur,132
+1150,Begumganj,132
+1151,Chhayani,132
+1152,Durgapur,132
+1153,Eklashpur,132
+1154,Gopalpur,132
+1155,Narottampur,132
+1156,Hajipur,132
+1157,Jirtali,132
+1158,Kadirpur,132
+1159,Kutubpur,132
+1160,Mir Warishpur,132
+1161,Rajganj,132
+1162,Rasulpur,132
+1163,Sharifpur,132
+1164,Ashwadia,133
+1165,Batya,133
+1166,Binodpur,133
+1167,Char Matua,133
+1168,Dadpur,133
+1169,Ewazbalia,133
+1170,Ghoshbag,133
+1171,Kadir Hanif,133
+1172,Kaladarap,133
+1173,Narottampur,133
+1174,Noazpur,133
+1175,Noakhali,133
+1176,Noannai,133
+1177,Sundalpur,133
+1178,Badalkut,134
+1179,Hatpukoria,134
+1180,Khil Para,134
+1181,Mohammadpur,134
+1182,Nayakhola,134
+1183,Panchgaon,134
+1184,Parkote,134
+1185,Ramnarayanpur,134
+1186,Sahapur,134
+1187,Char Elahi,135
+1188,Char Fakira,135
+1189,Char Hazari,135
+1190,Char Kakra,135
+1191,Char Parbati,135
+1192,Musapur,135
+1193,Rampur,135
+1194,Sirajpur,135
+1195,Burir Char,136
+1196,Char Ishwar,136
+1197,Char King,136
+1198,Harni Chanandi,136
+1199,Jahajmara,136
+1200,Nalchira,136
+1201,Sonadia,136
+1202,Sukh Char,136
+1203,Tamaruddin,136
+1204,Nijhumdip,136
+1205,Arjuntala,137
+1206,Bijbagh,137
+1207,Chhatarpaia,137
+1208,Dumuria,137
+1209,Kabilpur,137
+1210,Kadra,137
+1211,Kesharpar,137
+1212,Mohammadpur,137
+1213,Nabipur,137
+1214,Ambarnagar,138
+1215,Amisha Para,138
+1216,Bazra,138
+1217,Deoti,138
+1218,Jayag,138
+1219,Nadana,138
+1220,Nateshwar,138
+1221,Sonaimuri,138
+1222,Sonapur,138
+1223,Baragaon,138
+1224,Chashir Hat (Old Sonaimuri),138
+1225,Char Amanullah,139
+1226,Char Bata,139
+1227,Char Jubaly,139
+1228,Char Clerk,139
+1229,Char Jabbar,139
+1230,Char Wapda,139
+1231,Batya,140
+1232,Chaprashirhat,140
+1233,Ghoshbag,140
+1234,Narottampur,140
+1235,Sundalpur,140
+1236,Baghai Chhari,141
+1237,Bangaltali,141
+1238,Saroatali,141
+1239,Kedarmara,141
+1240,Marishya,141
+1241,Rupakari,141
+1242,Sajek,141
+1243,Aima Chhara,142
+1244,Bara Harina,142
+1245,Barkal,142
+1246,Bhushan Chhara,142
+1247,Shublong,142
+1248,Betbunia,143
+1249,Fatik Chhari,143
+1250,Ghagra,143
+1251,Kalampati,143
+1252,Belai Chhari,144
+1253,Farua,144
+1254,Kangra Chhari,144
+1255,Chandraghona,145
+1256,Chitmarang,145
+1257,Kaptai,145
+1258,Raikhali,145
+1259,Waggya,145
+1260,Banjugi Chhara,146
+1261,Dumdumya,146
+1262,Jurai Chhari,146
+1263,Maidang,146
+1264,Atarkara,147
+1265,Bhasanya Adam,147
+1266,Bagachattar,147
+1267,Gulshakhali,147
+1268,Kalapakurjya,147
+1269,Langadu,147
+1270,Mayanimukh,147
+1271,Burighat,148
+1272,Ghila Chhari,148
+1273,Naniarchar,148
+1274,Sabekhyong,148
+1275,Kakra Chhari(B.Halia),149
+1276,Ghila Chhari,149
+1277,Gaindya,149
+1278,Banduk Bhanga,150
+1279,Balukhali,150
+1280,Jibtali,150
+1281,Kutuk Chhari,150
+1282,Magban,150
+1283,Sapchhari,150
+1284,Amta,151
+1285,Baisakanda,151
+1286,Bhararia,151
+1287,Chauhati,151
+1288,Dhamrai,151
+1289,Gangutia,151
+1290,Jadabpur,151
+1291,Kulla,151
+1292,Kushura,151
+1293,Nannar,151
+1294,Rowail,151
+1295,Sanora,151
+1296,Sombhag,151
+1297,Suapur,151
+1298,Sutipara,151
+1299,Kushumhati,152
+1300,Mahmudpur,152
+1301,Moksedpur,152
+1302,Narisha,152
+1303,Nayabari,152
+1304,Raipara,152
+1305,Sutarpara,152
+1306,Bilashpur,152
+1307,Aganagar,153
+1308,Basta,153
+1309,Hazratpur,153
+1310,Kalatia,153
+1311,Kalindi,153
+1312,Konda,153
+1313,Ruhitpur,153
+1314,Sakta,153
+1315,Subhadya,153
+1316,Taranagar,153
+1317,Tegharia,153
+1318,Zinjira,153
+1319,Agla,154
+1320,Bakshnagar,154
+1321,Bandura,154
+1322,Barrah,154
+1323,Baruakhali,154
+1324,Churain,154
+1325,Galimpur,154
+1326,Jantrail,154
+1327,Joykrishnapur,154
+1328,Koilail,154
+1329,Kalakopa,154
+1330,Nayansree,154
+1331,Shikaripara,154
+1332,Sholla,154
+1333,Ashulia,155
+1334,Aminbazar,155
+1335,Bangaon,155
+1336,Bhakurta,155
+1337,Birulia,155
+1338,Dhamsona,155
+1339,Kaundia,155
+1340,Pathalia,155
+1341,Shimulia,155
+1342,Tetuljhora,155
+1343,Yearpur,155
+1344,Savar,155
+1345,Sarulia,156
+1346,Beraid,156
+1347,Manda,156
+1348,Dania,156
+1349,Dakshinkhan,156
+1350,Dakshingaon,156
+1351,Harirampur,156
+1352,Sultanganj,156
+1353,Satarkul,156
+1354,Nasirabad,156
+1355,Demra,156
+1356,Dumni,156
+1357,Uttarkhan,156
+1358,Matuail,156
+1359,Badda,156
+1360,Bhatara,156
+1361,Shyampur,156
+1362,Alfadanga,214
+1363,Bana,214
+1364,Buraich,214
+1365,Gopalpur,214
+1366,Panchuria,214
+1367,Tagarband,214
+1368,Algi,215
+1369,Azimnagar,215
+1370,Chumurdi,215
+1371,Chandra,215
+1372,Gharua,215
+1373,Hamirdi,215
+1374,Kalamridha,215
+1375,Kaolibera,215
+1376,Manikdaha,215
+1377,Nasirabad,215
+1378,Nurullaganj,215
+1379,Tuzarpur,215
+1380,Boalmari,216
+1381,Chandpur,216
+1382,Chatul,216
+1383,Dadpur,216
+1384,Ghoshpur,216
+1385,Gunbaha,216
+1386,Moyna,216
+1387,Parameshwardi,216
+1388,Rupapat,216
+1389,Satair,216
+1390,Shekhar,216
+1391,Charbhadrasan,217
+1392,Char Harirampur,217
+1393,Char Jhaukanda,217
+1394,Gazirtek,217
+1395,Aliabad,218
+1396,Ambikapur,218
+1397,Charmadhabdia,218
+1398,Dikrirchar,218
+1399,Gerda,218
+1400,Ishangopalpur,218
+1401,Koijuri,218
+1402,Kanaipur,218
+1403,Krishnanagar,218
+1404,Machhar,218
+1405,Northchannel,218
+1406,Bagat,219
+1407,Dumain,219
+1408,Gajna,219
+1409,Jahapur,219
+1410,Kamarkhali,219
+1411,Madhukhali,219
+1412,Meghdhami,219
+1413,Nawapara,219
+1414,Roypur,219
+1415,Char Josardi,220
+1416,Dangi,220
+1417,Fulsuti,220
+1418,Kaichail,220
+1419,Laskardia,220
+1420,Kodalia Shahid Nagar,220
+1421,Purapara,220
+1422,Ramnagar,220
+1423,Talma,220
+1424,Akoter Char,221
+1425,Bhashanchar,221
+1426,Char Bishnupur,221
+1427,Char Manair,221
+1428,Char Nasirpur,221
+1429,Dheukhali,221
+1430,Krishnapur,221
+1431,Narikelbaria,221
+1432,Sadarpur,221
+1433,Atghar,222
+1434,Ballabhdi,222
+1435,Bhawal,222
+1436,Gatti,222
+1437,Jadunandi,222
+1438,Majhardia,222
+1439,Ramkantapur,222
+1440,Sonapur,222
+1441,Bashan,157
+1442,Baria,157
+1443,Gachha,157
+1444,Kasimpur,157
+1445,Kaultia,157
+1446,Konabari,157
+1447,Mirzapur,157
+1448,Pubail,157
+1449,Atabaha,158
+1450,Boali,158
+1451,Chapair,158
+1452,Dhaljora,158
+1453,Fulbaria,158
+1454,Madhyapara,158
+1455,Mouchak,158
+1456,Sreefaltali,158
+1457,Sutrapur,158
+1458,Bahadursadi,159
+1459,Baktarpur,159
+1460,Jamalpur,159
+1461,Jangalia,159
+1462,Kaliganj,159
+1463,Moktarpur,159
+1464,Nagori,159
+1465,Tumulia,159
+1466,Barishab,160
+1467,Chandpur,160
+1468,Durgapur,160
+1469,Ghagutia,160
+1470,Kapasia,160
+1471,Karihata,160
+1472,Rayed,160
+1473,Sanmania,160
+1474,Singhasree,160
+1475,Targaon,160
+1476,Toke,160
+1477,Barmi,161
+1478,Gazipur,161
+1479,Gosinga,161
+1480,Kaoraid,161
+1481,Maona,161
+1482,Prahlladpur,161
+1483,Rajabari,161
+1484,Telihati,161
+1485,Katharia,68
+1486,Dhopachhari,70
+1487,Hajir Para,127
+1488,Balia,151
+1489,Borashi,162
+1490,Boultali,162
+1491,Chandradighalia,162
+1492,Durgapur,162
+1493,Gobra,162
+1494,Gopinathpur,162
+1495,Haridaspur,162
+1496,Jalalabad,162
+1497,Kajulia,162
+1498,Karpara,162
+1499,Kathi,162
+1500,Latifpur,162
+1501,Majhigati,162
+1502,Nizra,162
+1503,Paikkandi,162
+1504,Raghunathpur,162
+1505,Sahapur,162
+1506,Satpar,162
+1507,Suktail,162
+1508,Ulpur,162
+1509,Urafi,162
+1510,Bethuri,163
+1511,Fukura,163
+1512,Hatiara,163
+1513,Kashiani,163
+1514,Mamudpur,163
+1515,Maheshpur,163
+1516,Nijamkandi,163
+1517,Orakandi,163
+1518,Parulia,163
+1519,Puisur,163
+1520,Rajpat,163
+1521,Ratoil,163
+1522,Sajail,163
+1523,Singa,163
+1524,Amtali,164
+1525,Bandhabari,164
+1526,Ghaghar,164
+1527,Hiron,164
+1528,Kalabari,164
+1529,Kandi,164
+1530,Kushla,164
+1531,Pinjuri,164
+1532,Radhaganj,164
+1533,Ramshil,164
+1534,Sadullapur,164
+1535,Suagram,164
+1536,Bhabrasur,165
+1537,Bahugram,165
+1538,Banshbaria,165
+1539,Batikamari,165
+1540,Dignagar,165
+1541,Gobindapur,165
+1542,Gohala,165
+1543,Jalirpar,165
+1544,Kashalia,165
+1545,Khandarpara,165
+1546,Maharajpur,165
+1547,Mochna,165
+1548,Nanixmir,165
+1549,Pashargati,165
+1550,Radhdi,165
+1551,Ujani,165
+1552,Barni,166
+1553,Dumuria,166
+1554,Gopalpur,166
+1555,Kushli,166
+1556,Patgati,166
+1557,Adampur,167
+1558,Austagram,167
+1559,Bangal Para,167
+1560,Deoghar,167
+1561,Kalma,167
+1562,Kastul,167
+1563,Khayerpur Abdullahpur,167
+1564,Purba Austagram,167
+1565,Baliadi,168
+1566,Dighirpar,168
+1567,Dilalpur,168
+1568,Gazir Char,168
+1569,Halimpur,168
+1570,Hilachia,168
+1571,Humaipur,168
+1572,Kailag,168
+1573,Maij Char,168
+1574,Pirijpur,168
+1575,Sarar Char,168
+1576,Aganagar,169
+1577,Gazaria,169
+1578,Kalikaprashad,169
+1579,Sadekpur,169
+1580,Shibpur,169
+1581,Shimulkandi,169
+1582,Sreenagar,169
+1583,Elongjuri,170
+1584,Badla,170
+1585,Baribari,170
+1586,Dhanpur,170
+1587,Gazipur,170
+1588,Itna,170
+1589,Joysiddi,170
+1590,Mrigha,170
+1591,Raituti,170
+1592,Chowganga,170
+1593,Araibari,171
+1594,Gobindapur,171
+1595,Jirani,171
+1596,Pumdi,171
+1597,Sahedal,171
+1598,Sidhla,171
+1599,Baragharia,172
+1600,Dehunda,172
+1601,Gundhar,172
+1602,Gujadia,172
+1603,Jafarabad,172
+1604,Joyka,172
+1605,Kadir Jungle,172
+1606,Karimganj,172
+1607,Niamatpur,172
+1608,Noabad,172
+1609,Sutar Para,172
+1610,Achmita,173
+1611,Banagram,173
+1612,Chandpur,173
+1613,Jalalpur,173
+1614,Kargaon,173
+1615,Luhajuri,173
+1616,Masua,173
+1617,Mumurdia,173
+1618,Shaha Dhulia,173
+1619,Binnati,174
+1620,Bawlai,174
+1621,Chauddasata,174
+1622,Dana Patuli,174
+1623,Jasodal,174
+1624,Korsha Kariail,174
+1625,Latibabad,174
+1626,Mahinanda,174
+1627,Maij Khapan,174
+1628,Maria,174
+1629,Rashidabad,174
+1630,Chhaysuti,175
+1631,Faridpur,175
+1632,Gubaria Abdullahpur,175
+1633,Osmanpur,175
+1634,Ramdi,175
+1635,Salua,175
+1636,Dhaki,176
+1637,Ghagra,176
+1638,Gopedighi,176
+1639,Katkhal,176
+1640,Kewarjore,176
+1641,Mithamoin,176
+1642,Boirati,176
+1643,Dampara,177
+1644,Gurue,177
+1645,Jaraitala,177
+1646,Karpasha,177
+1647,Nikli,177
+1648,Singpur,177
+1649,Chhatirchar,177
+1650,Burdia,178
+1651,Chandipasha,178
+1652,Char Faradi,178
+1653,Egarasindur,178
+1654,Hosendi,178
+1655,Jangalia,178
+1656,Narandi,178
+1657,Pakundia,178
+1658,Patuabhanga,178
+1659,Sukhia,178
+1660,Damiha,179
+1661,Dhala,179
+1662,Digdair,179
+1663,Jawar,179
+1664,Rauti,179
+1665,Talganga,179
+1666,Tarail Sachail,179
+1667,Amgram,180
+1668,Badarpasha,180
+1669,Bajitpur,180
+1670,Hossainpur,180
+1671,Ishibpur,180
+1672,Kabirajpur,180
+1673,Kadambari,180
+1674,Khalia,180
+1675,Paikpara,180
+1676,Rajoir,180
+1677,Mahendradi-Haridasdee,180
+1678,Bahadurpur,181
+1679,Chhilarchar,181
+1680,Dhurail,181
+1681,Dudhkhali,181
+1682,Ghatmajhi,181
+1683,Jhaudi,181
+1684,Kalikapur,181
+1685,Kendua,181
+1686,Khoajpur,181
+1687,Kunia,181
+1688,Mostafapur,181
+1689,Panchkhola,181
+1690,Pearpur,181
+1691,Rasti,181
+1692,Sirkhara,181
+1693,Alinagar,182
+1694,Baligram,182
+1695,Banshgari,182
+1696,Sidikhan,182
+1697,Dasar,182
+1698,Enayetnagar,182
+1699,Gopalpur,182
+1700,Kayaria,182
+1701,Kazi Bakai,182
+1702,Laxmipur,182
+1703,Nabagram,182
+1704,Ramjanpur,182
+1705,Sahebrampur,182
+1706,Shikar Mangal,182
+1707,Kunia,182
+1708,Khoajpur,182
+1709,Bandarkhola,183
+1710,Banshkandi,183
+1711,Boheratala,183
+1712,Bhadrasan,183
+1713,Bhandarikandi,183
+1714,Charjanajat,183
+1715,Dattapara,183
+1716,Ditiya Khanda,183
+1717,Kadirpur,183
+1718,Kanthalbari,183
+1719,Kutubpur,183
+1720,Madaber Char,183
+1721,Nilakhi,183
+1722,Panchchar,183
+1723,Sannyasir Char,183
+1724,Shibchar,183
+1725,Siruail,183
+1726,Umedpur,183
+1727,Bachamara,184
+1728,Baghutia,184
+1729,Chakmirpur,184
+1730,Char Katari,184
+1731,Dhamswar,184
+1732,Jiyanpur,184
+1733,Kolia,184
+1734,Khalshi,184
+1735,Baliakhora,185
+1736,Baniajuri,185
+1737,Baratia,185
+1738,Ghior,185
+1739,Nali,185
+1740,Poyla,185
+1741,Singjuri,185
+1742,Azimnagar,186
+1743,Balla,186
+1744,Balra,186
+1745,Boyra,186
+1746,Chala,186
+1747,Dhulsura,186
+1748,Gala,186
+1749,Gopinathpur,186
+1750,Harukandi,186
+1751,Kanchanpur,186
+1752,Lechraganj,186
+1753,Ramkrishnapur,186
+1754,Sutalari,186
+1755,Betila-Mitra,187
+1756,Atigram,187
+1757,Bhararia,187
+1758,Dighi,187
+1759,Garpara,187
+1760,Hatipara,187
+1761,Jagir,187
+1762,Krishnapur,187
+1763,Nabagram,187
+1764,Putail,187
+1765,Baliati,188
+1766,Baraid,188
+1767,Daragram,188
+1768,Dighulia,188
+1769,Dhankora,188
+1770,Fukurhati,188
+1771,Hargaz,188
+1772,Saturia,188
+1773,Tilli,188
+1774,Arua,189
+1775,Mohadebpur,189
+1776,Shimulia,189
+1777,Shibalay,189
+1778,Teota,189
+1779,Ulail,189
+1780,Uthuli,189
+1781,Bayra,190
+1782,Baldhara,190
+1783,Chandhar,190
+1784,Charigram,190
+1785,Dhalla,190
+1786,Joymantap,190
+1787,Jarmita,190
+1788,Jamsha,190
+1789,Sayesta,190
+1790,Singair,190
+1791,Talebpur,190
+1792,Baluakandi,191
+1793,Bausia,191
+1794,Bhaberchar,191
+1795,Gazaria,191
+1796,Guagachhia,191
+1797,Hossaindi,191
+1798,Imampur,191
+1799,Tengerchar,191
+1800,Bejgaon,192
+1801,Boultali,192
+1802,Gaodia,192
+1803,Haldia,192
+1804,Kalma,192
+1805,Kanaksar,192
+1806,Khidirpara,192
+1807,Kumarbhag,192
+1808,Medinimondal,192
+1809,Teotia,192
+1810,Adhara,193
+1811,Bajrajogini,193
+1812,Charkewar,193
+1813,Shiloye,193
+1814,Mahakali,193
+1815,Mollahkandi,193
+1816,Panchasar,193
+1817,Rampal,193
+1818,Banglabazar,193
+1819,Balurchar,194
+1820,Bashail,194
+1821,Boyaragadi,194
+1822,Chitrakot,194
+1823,Ichhapur,194
+1824,Jainsar,194
+1825,Keyain,194
+1826,Kola,194
+1827,Latabdi,194
+1828,Madhyapara,194
+1829,Malkhanagar,194
+1830,Rajnagar,194
+1831,Rasunia,194
+1832,Sekharnagar,194
+1833,Atpara,195
+1834,Baghra,195
+1835,Baraikhali,195
+1836,Bhagyakul,195
+1837,Birtara,195
+1838,Hasara,195
+1839,Kolapara,195
+1840,Kukutia,195
+1841,Patabhog,195
+1842,Rarikhal,195
+1843,Sreenagar,195
+1844,Sholaghar,195
+1845,Shyamsiddhi,195
+1846,Tantar,195
+1847,Abdullahpur,196
+1848,Baligaon,196
+1849,Autshahi,196
+1850,Betka,196
+1851,Dhipur,196
+1852,Dighirpar,196
+1853,Hasainbanari,196
+1854,Jashalong,196
+1855,Kamarkhara,196
+1856,Kathalia Shimulia,196
+1857,Panchgaon,196
+1858,Sonarang,196
+1859,Araihazar,197
+1860,Bishnadi,197
+1861,Brahmandi,197
+1862,Duptara,197
+1863,Fatepur,197
+1864,Haizadi,197
+1865,Kalaipaharia,197
+1866,Khagakanda,197
+1867,Mahmudpur,197
+1868,Sadasadi,197
+1869,Satgram,197
+1870,Uchitpura,197
+1871,Bandar,198
+1872,Dhamgar,198
+1873,Kolagachia,198
+1874,Madanpur,198
+1875,Musapur,198
+1876,Alirtek,199
+1877,Baktabali,199
+1878,Enayetnagar,199
+1879,Fatulla,199
+1880,Godnail,199
+1881,Gognagar,199
+1882,Kashipur,199
+1883,Kutubpur,199
+1884,Siddirganj,199
+1885,Sumilpara,199
+1886,Bholabo,200
+1887,Bhulta,200
+1888,Daudpur,200
+1889,Holakandail,200
+1890,Kayetpara,200
+1891,Murapara,200
+1892,Rupganj,200
+1893,Baidyerbazar,201
+1894,Baradi,201
+1895,Jampur,201
+1896,Kachpur,201
+1897,Mograpara,201
+1898,Noagaon,201
+1899,Pirojpur,201
+1900,Sadipur,201
+1901,Shambhupura,201
+1902,Sanmanadi,201
+1903,Alokbali,235
+1904,Amdia,235
+1905,Chardighaldi,235
+1906,Chinishpur,235
+1907,Hajipur,235
+1908,Karimpur,235
+1909,Kathalia,235
+1910,Nuralapur,235
+1911,Mahishasura,235
+1912,Meherpara,235
+1913,Nazarpur,235
+1914,Poikarchar,235
+1915,Panchdona,235
+1916,Silmandi,235
+1917,Amlaba,236
+1918,Bajnabo,236
+1919,Belabo,236
+1920,Binnabaid,236
+1921,Narayanpur,236
+1922,Patuli,236
+1923,Sallabad,236
+1924,Charujilab,236
+1925,Barachapa,237
+1926,Chalakchar,237
+1927,Chandanbari,237
+1928,Charmandalia,237
+1929,Daulatpur,237
+1930,Akduaria,237
+1931,Gotashia,237
+1932,Kanchikata,237
+1933,Khidirpur,237
+1934,Lebutala,237
+1935,Shukundi,237
+1936,Char Sindur,238
+1937,Danga,238
+1938,Gazaria,238
+1939,Jinardi,238
+1940,Adiabad,239
+1941,Alipura,239
+1942,Amirganj,239
+1943,Banshgari,239
+1944,Chanderkandi,239
+1945,Chanpur,239
+1946,Char Aralia,239
+1947,Charmadhua,239
+1948,Charsubuddi,239
+1949,Dowkarchar,239
+1950,Hairmara,239
+1951,Maheshpur,239
+1952,Marjal,239
+1953,Mirzanagar,239
+1954,Mirzapur,239
+1955,Mirzarchar,239
+1956,Musapur,239
+1957,Nilakhya,239
+1958,Palashtali,239
+1959,Paratali,239
+1960,Radhanagar,239
+1961,Roypura,239
+1962,Sreenagar,239
+1963,Uttarbakharnagar,239
+1964,Ayubpur,240
+1965,Baghaba,240
+1966,Chakradha,240
+1967,Dulalpur,240
+1968,Joshor,240
+1969,Joynagar,240
+1970,Machhimpur,240
+1971,Putia,240
+1972,Sadharchar,240
+1973,Baharpur,202
+1974,Baliakandi,202
+1975,Jamalpur,202
+1976,Jangal,202
+1977,Narua,202
+1978,Nawabpur,202
+1979,Islampur,202
+1980,Chhotabhakla,203
+1981,Daulatdia,203
+1982,Debagram,203
+1983,Ujanchar,203
+1984,Bahadurpur,204
+1985,Habashpur,204
+1986,Jhashai,204
+1987,Kalimahar,204
+1988,Kasbamajail,204
+1989,Machhpara,204
+1990,Maurat,204
+1991,Babupara,204
+1992,Patta,204
+1993,Sarisha,204
+1994,Alipur,205
+1995,Banibaha,205
+1996,Barat,205
+1997,Basantapur,205
+1998,Chandani,205
+1999,Dadshi,205
+2000,Khankhanapur,205
+2001,Khanganj,205
+2002,Mizanpur,205
+2003,Mulghar,205
+2004,Panchuria,205
+2005,Ramkantapur,205
+2006,Shahid Wahabpur,205
+2007,Sultanpur,205
+2008,Boalia,206
+2009,Kalikapur,206
+2010,Majbari,206
+2011,Madapur,206
+2012,Mrigi,206
+2013,Ratandia,206
+2014,Sawrail,206
+2015,Arshinagar,207
+2016,Char Bhaga,207
+2017,Char Kumaria,207
+2018,Chhaygaon,207
+2019,D.M. Khali,207
+2020,Kanchikata,207
+2021,Mahisar,207
+2022,Narayanpur,207
+2023,Rambhadrapur,207
+2024,Sakhipur,207
+2025,Tarabunia (U),207
+2026,Tarabunia (D),207
+2027,Char Sensus,207
+2028,Islampur,208
+2029,Darul Aman,208
+2030,Dhankati,208
+2031,Kaneshwar,208
+2032,Purba Damudya,208
+2033,Sidulkura,208
+2034,Sidya,208
+2035,Gariber Char,209
+2036,Gosairhat,209
+2037,Idilpur,209
+2038,Kodalpur,209
+2039,Nagerpara,209
+2040,Nalmuri,209
+2041,Samantasar,209
+2042,Bhojeshwar,210
+2043,Bhumkhara,210
+2044,Bijhari,210
+2045,Chamta,210
+2046,Char Atra,210
+2047,Dinga Manik,210
+2048,Fatejangapur,210
+2049,Gharisar,210
+2050,Japsa,210
+2051,Kedarpur,210
+2052,Moktarerchar,210
+2053,Nashason,210
+2054,Nawpara,210
+2055,Rajnagar,210
+2056,Angaria,211
+2057,Binodpur,211
+2058,Chandrapur,211
+2059,Chikandi,211
+2060,Chitalia,211
+2061,Bhomsar,211
+2062,Mahmudpur,211
+2063,Palong,211
+2064,Rudrakar,211
+2065,Shoulpara,211
+2066,Tulasar,211
+2067,Bara Gopalpur,212
+2068,Barakandi,212
+2069,B. K. Nagar,212
+2070,Bilaspur,212
+2071,Joynagar,212
+2072,Kunder Char,212
+2073,Mulna,212
+2074,Naodoba,212
+2075,Paler Char,212
+2076,Purba Naodoba,212
+2077,Sener Char,212
+2078,Zanjira,212
+2079,Baheratoil,213
+2080,Dariapur,213
+2081,Gazaria,213
+2082,Hatibandha,213
+2083,Jadabpur,213
+2084,Kakrajan,213
+2085,Kalia,213
+2086,Kalmegha,213
+2087,Alamnagar,223
+2088,Dhopakandi,223
+2089,Hadia,223
+2090,Hemnagar,223
+2091,Jhaoail,223
+2092,Mirzapur,223
+2093,Nagla Simla,223
+2094,Basail,224
+2095,Fulki,224
+2096,Habla,224
+2097,Kanchanpur,224
+2098,Kashil,224
+2099,Kauljani,224
+2100,Arjuna,225
+2101,Falda,225
+2102,Gaksara,225
+2103,Gobindabasi,225
+2104,Nikrail,225
+2105,Aloa,225
+2106,Atia,226
+2107,Delduar,226
+2108,Deoli,226
+2109,Dubail,226
+2110,Elasin,226
+2111,Fazilhati,226
+2112,Lauhati,226
+2113,Pathrail,226
+2114,Anehola,227
+2115,Deulabari,227
+2116,Deopara,227
+2117,Dhala Para,227
+2118,Digalkandi,227
+2119,Digar,227
+2120,Ghatail,227
+2121,Jamuria,227
+2122,Luker Para,227
+2123,Rasulpur,227
+2124,Sandhanpur,227
+2125,Balla,228
+2126,Bangra,228
+2127,Bir Basinda,228
+2128,Durgapur,228
+2129,Elenga,228
+2130,Kok Dahara,228
+2131,Nagbari,228
+2132,Narandia,228
+2133,Paikara,228
+2134,Salla,228
+2135,Sahadebpur,228
+2136,Alokdia,229
+2137,Arankhola,229
+2138,Ausnara,229
+2139,Birtara,229
+2140,Dhanbari,229
+2141,Dhopakhali,229
+2142,Golabari,229
+2143,Musuddi,229
+2144,Paiska,229
+2145,Sholakuri,229
+2146,Mirzabari,229
+2147,Ajgana,230
+2148,Anautara,230
+2149,Bahuria,230
+2150,Banail,230
+2151,Banshtail,230
+2152,Bhatgram,230
+2153,Fatehpur,230
+2154,Gorai,230
+2155,Jamurki,230
+2156,Mahera,230
+2157,Tarafpur,230
+2158,Uarsi,230
+2159,Bhadra,231
+2160,Bharara,231
+2161,Doptiair,231
+2162,Dhubaria,231
+2163,Gayhata,231
+2164,Mamudnagar,231
+2165,Mokna,231
+2166,Nagarpur,231
+2167,Pakutia,231
+2168,Sahabatpur,231
+2169,Salimabad,231
+2170,Bekrhi Atgram,231
+2171,Baheratail,232
+2172,Gazaria,232
+2173,Hatibandha,232
+2174,Jadabpur,232
+2175,Kakrajan,232
+2176,Kalia,232
+2177,Birtara,233
+2178,Dhanbari,233
+2179,Dhopakhali,233
+2180,Musuddi,233
+2181,Paiska,233
+2182,Baghil,234
+2183,Danya,234
+2184,Gala,234
+2185,Gharinda,234
+2186,Hugra,234
+2187,Karatia,234
+2188,Katuli,234
+2189,Kakua,234
+2190,Mahera,234
+2191,Silimpur,234
+2192,Porabari,234
+2193,Mahmood Nagar,234
+2194,Chandpai,246
+2195,Burirdanga,246
+2196,Chila,246
+2197,Mithakhali,246
+2198,Sonailtola,246
+2199,Sundarban,246
+2200,Charbaniari,242
+2201,Barabaria,242
+2202,Chitalmari,242
+2203,Hizla,242
+2204,Santoshpur,242
+2205,Kalatala,242
+2206,Shibpur,242
+2207,Dhansagar,249
+2208,Khontakata,249
+2209,Rayenda,249
+2210,Southkhali,249
+2211,Baintola,248
+2212,Banshtali,248
+2213,Bhojpatia,248
+2214,Gauramba,248
+2215,Hurka,248
+2216,Mallikerber,248
+2217,Perikhali,248
+2218,Rajnagar,248
+2219,Rampal,248
+2220,Ujalkur,248
+2221,Atjuri,245
+2222,Chunkhola,245
+2223,Gangni,245
+2224,Gaola,245
+2225,Kodalia,245
+2226,Kulia,245
+2227,Udaypur,245
+2228,Badhal,244
+2229,Dhopakhali,244
+2230,Gazalia,244
+2231,Gopalpur,244
+2232,Kachua,244
+2233,Moghia,244
+2234,Raripara,244
+2235,Bahirdimansa,243
+2236,Betaga,243
+2237,Fakirhat,243
+2238,Lakhpur,243
+2239,Mulghar,243
+2240,Naldha-Maubhog,243
+2241,Piljanga,243
+2242,Subhadia,243
+2243,Baruipara,241
+2244,Bemarta,241
+2245,Bishnupur,241
+2246,Gotapara,241
+2247,Jatrapur,241
+2248,Karapara,241
+2249,Khanpur,241
+2250,Rakhalgachhi,241
+2251,Shatgambuj,241
+2252,Dema,241
+2253,Bohorbunia,247
+2254,Boloibunia,247
+2255,Banagram,247
+2256,Baroikhali,247
+2257,Chingrakhali,247
+2258,Daibanjgati,247
+2259,Hoglabunia,247
+2260,Hoglapasha,247
+2261,Jiudhara,247
+2262,Khaulia,247
+2263,Morrelganj,247
+2264,Nishanbaria,247
+2265,Panchakaran,247
+2266,Putikhali,247
+2267,Ramchandrapur,247
+2268,Teligati,247
+2269,Damurhuda,252
+2270,Howli,252
+2271,Juranpur,252
+2272,Karpasdanga,252
+2273,Kuralgachhi,252
+2274,Ramkrishnapur Madna,252
+2275,Natipota,252
+2276,Alukdia,251
+2277,Begampur,251
+2278,Kutubpur,251
+2279,Mominpur,251
+2280,Padmabila,251
+2281,Shankarchandra,251
+2282,Titudaha,251
+2283,Andulbaria,253
+2284,Banka,253
+2285,Simanta,253
+2286,Uthali,253
+2287,Belgachhi,250
+2288,Baradi,250
+2289,Bhangbaria,250
+2290,Dauki,250
+2291,Gangni,250
+2292,Hardi,250
+2293,Jamjami,250
+2294,Jehala,250
+2295,Khadimpur,250
+2296,Kalidashpur,250
+2297,Khaskarra,250
+2298,Kumari,250
+2299,Nagdaha,250
+2300,Baghutia,254
+2301,Prembag,254
+2302,Sundoli,254
+2303,Payra,254
+2304,Chalishia,254
+2305,Siddhipasha,254
+2306,Sreedharpur,254
+2307,Suvorara,254
+2308,Basuari,255
+2309,Bandabila,255
+2310,Darajhat,255
+2311,Dhalgram,255
+2312,Dohakula,255
+2313,Jamdia,255
+2314,Jahurpur,255
+2315,Narikelbaria,255
+2316,Roypur,255
+2317,Chowgacha,256
+2318,Dhuliani,256
+2319,Hakimpur,256
+2320,Jagadishpur,256
+2321,Swarupdaha,256
+2322,Narayanpur,256
+2323,Pashapole,256
+2324,Patibila,256
+2325,Phulsara,256
+2326,Singhajhuli,256
+2327,Sukpukuria,256
+2328,Bankura,257
+2329,Ganganandapur,257
+2330,Gadkhali,257
+2331,Hajirbag,257
+2332,Jhikargachha,257
+2333,Magura,257
+2334,Navaron,257
+2335,Nirbaskhola,257
+2336,Panisara,257
+2337,Shankarpur,257
+2338,Shimulia,257
+2339,Bidyanandakati,258
+2340,Gourighona,258
+2341,Keshabpur,258
+2342,Majidpur,258
+2343,Mangalkot,258
+2344,Panjia,258
+2345,Sagardari,258
+2346,Sufalakati,258
+2347,Trimohini,258
+2348,Arabpur,259
+2349,Basundia,259
+2350,Chanchra,259
+2351,Churamonkati,259
+2352,Deara,259
+2353,Fatepur,259
+2354,Hoibatpur,259
+2355,Ehali,259
+2356,Kashimpur,259
+2357,Kachua,259
+2358,Lebutala,259
+2359,Narendrapur,259
+2360,Noapara,259
+2361,Ramnagar,259
+2362,Natun Upa-Sahar,259
+2363,Bhojgati,260
+2364,Chaluahati,260
+2365,Dhakuria,260
+2366,Durbadanga,260
+2367,Haridaskati,260
+2368,Hariharnagar,260
+2369,Jhapa,260
+2370,Kashimnagar,260
+2371,Khanpur,260
+2372,Khedapara,260
+2373,Kultia,260
+2374,Monirampur,260
+2375,Manoharpur,260
+2376,Maswimnagar,260
+2377,Nehalpur,260
+2378,Rohita,260
+2379,Shyamkur,260
+2380,Bagachra,261
+2381,Bahadurpur,261
+2382,Benapole,261
+2383,Dihi,261
+2384,Goga,261
+2385,Kayba,261
+2386,Laxmanpur,261
+2387,Nizampur,261
+2388,Putkhali,261
+2389,Sharsha,261
+2390,Ulshi,261
+2391,Abaipur,267
+2392,Bogra,267
+2393,Balharachandra,267
+2394,Dignagar,267
+2395,Dudhsammata,267
+2396,Fulhar,267
+2397,Hakimpur,267
+2398,Kachekol,267
+2399,Mirzapur,267
+2400,Monohorpur,267
+2401,Nityanandapur,267
+2402,Sarutia,267
+2403,Tribeni,267
+2404,Umedpur,267
+2405,Azampur,266
+2406,Banshbaria,266
+2407,Fatepur,266
+2408,Jadabpur,266
+2409,Kazirber,266
+2410,Panthapara,266
+2411,Natima,266
+2412,Nepa,266
+2413,Manderbaria,266
+2414,Shyamkur,266
+2415,S.B.K,266
+2416,Swaruppur,266
+2417,Balohar,265
+2418,Dora,265
+2419,Elangi,265
+2420,Kushna,265
+2421,Sabdalpur,265
+2422,Bhayna,262
+2423,Chandpur,262
+2424,Daulatpur,262
+2425,Falshi,262
+2426,Joradaha,262
+2427,Kapashtia,262
+2428,Raghunathpur,262
+2429,Taherhuda,262
+2430,Dogachhi,263
+2431,Fursundi,263
+2432,Ganna,263
+2433,Ghorashal,263
+2434,Halidhani,263
+2435,Harishankarpur,263
+2436,Kalicharanpur,263
+2437,Kumrabaria,263
+2438,Madhuhati,263
+2439,Moharajpur,263
+2440,Naldanga,263
+2441,Padmakar,263
+2442,Paglakanai,263
+2443,Porahati,263
+2444,Saganna,263
+2445,Sadhuhati,263
+2446,Surat,263
+2447,Barabazar,264
+2448,Jamal,264
+2449,Kashtobhanga,264
+2450,Kola,264
+2451,Maliat,264
+2452,Niamatpur,264
+2453,Roygram,264
+2454,Rakhalgachhi,264
+2455,Sundarpur-Durgapur,264
+2456,Shimla-Rokonpur,264
+2457,Trilochanpur,264
+2458,Bajua,269
+2459,Banishanta,269
+2460,Laudobe,269
+2461,Chalna,269
+2462,Dacope,269
+2463,Koilashganj,269
+2464,Kamarkhola,269
+2465,Sutarkhali,269
+2466,Tildanga,269
+2467,Amirpur,268
+2468,Baliadanga,268
+2469,Batiaghata,268
+2470,Bhandarkote,268
+2471,Gangarampur,268
+2472,Jalma,268
+2473,Surkhali,268
+2474,Arongghata,271
+2475,Jogipole,271
+2476,Barakpur,271
+2477,Dighalia,271
+2478,Gazirhat,271
+2479,Senhati,271
+2480,Atalia,270
+2481,Bhandarpara,270
+2482,Dhamalia,270
+2483,Dumuria,270
+2484,Gutudia,270
+2485,Kharnia,270
+2486,Magurkhali,270
+2487,Maguraghona,270
+2488,Raghunathpur,270
+2489,Rangpur,270
+2490,Rudaghora,270
+2491,Shahosh,270
+2492,Shrafpur,270
+2493,Shobhona,270
+2494,Amadi,272
+2495,Bagali,272
+2496,Dakshin Debkasi,272
+2497,Koyra,272
+2498,Maharajpur,272
+2499,Maheshwaripur,272
+2500,Uttar Debkashi,272
+2501,Chandkhali,273
+2502,Deluty,273
+2503,Gadaipur,273
+2504,Gudikhali,273
+2505,Haridhali,273
+2506,Kapilmuni,273
+2507,Laskar,273
+2508,Lata,273
+2509,Raduli,273
+2510,Sholadana,273
+2511,Atragilatola,274
+2512,Damodaw,274
+2513,Jamira,274
+2514,Fultola,274
+2515,Ajgora,276
+2516,Barasat,276
+2517,Madhupur,276
+2518,Sachiradah,276
+2519,Chagladah,276
+2520,Terokhada,276
+2521,Rupsa Upazila,276
+2522,Aichgati,276
+2523,Ghatbhog,276
+2524,Noihati,276
+2525,Sreefaltala,276
+2526,T.S.Bahibadia,276
+2527,Janipur,285
+2528,Khoksa,285
+2529,Sumashpur,285
+2530,Ambaria,285
+2531,Shimulia,285
+2532,Gopogram,285
+2533,Joyonti Hazra,285
+2534,Betbaria,285
+2535,Osmanpur,285
+2536,Bahadurpur,283
+2537,Bahirpar,283
+2538,Chandgram,283
+2539,Dharampur,283
+2540,Juniadaha,283
+2541,Mokarimpur,283
+2542,Adabaria,284
+2543,Aria,284
+2544,Boalia,284
+2545,Chilmari,284
+2546,Daulatpur,284
+2547,Hogalbaria,284
+2548,Kholishakundi,284
+2549,Maricha,284
+2550,Mathurapur,284
+2551,Pearpur,284
+2552,Philipnagar,284
+2553,Pragpur,284
+2554,Ramkrishnapur,284
+2555,Refayetpur,284
+2556,Bagulat,286
+2557,Charsadipur,286
+2558,Chandpur,286
+2559,Chapra,286
+2560,Jaduboyra,286
+2561,Jagannathpur,286
+2562,Kaya,286
+2563,Nandalalpur,286
+2564,Panti,286
+2565,Sadaki,286
+2566,Shelaidaha,286
+2567,Ambaria,288
+2568,Amla,288
+2569,Bahalbaria,288
+2570,Baroipara,288
+2571,Chhatian,288
+2572,Chitholia,288
+2573,Korsha,288
+2574,Malidah,288
+2575,Poradaha,288
+2576,Sardarpur,288
+2577,Talbaria,288
+2578,Fulbaria,288
+2579,Abdalpur,287
+2580,Ailchar,287
+2581,Alampur,287
+2582,Barakhada,287
+2583,Goswami Durgapur,287
+2584,Harinarayanpur,287
+2585,Hatshahripur,287
+2586,Jagati,287
+2587,Jiarathi,287
+2588,Jhaudia,287
+2589,Mazampur,287
+2590,Manohardia,287
+2591,Patikabari,287
+2592,Ujangram,287
+2593,Arpara,291
+2594,Bunagati,291
+2595,Dhaneshwargati,291
+2596,Gangarampur,291
+2597,Shalikha,291
+2598,Shatakhali,291
+2599,Talkhari,291
+2600,Atharokhada,289
+2601,Beroil Palita,289
+2602,Bgia,289
+2603,Chaulia,289
+2604,Golapgram,289
+2605,Hazipur,289
+2606,Hazrapur,289
+2607,Jagdal,289
+2608,Kachuddi,289
+2609,Kuchiamora,289
+2610,Moghi,289
+2611,Raghobdair,289
+2612,Satrujitpur,289
+2613,Babukhali,290
+2614,Balidia,290
+2615,Binodepur,290
+2616,Digha,290
+2617,Mohammadpur,290
+2618,Nahata,290
+2619,Palashbaria,290
+2620,Rajapur,290
+2621,Ambalshwar,292
+2622,Dariapur,292
+2623,Gayeshpur,292
+2624,Kadirpara,292
+2625,Nakol,292
+2626,Sabdalpur,292
+2627,Sreekol,292
+2628,Sreepur,292
+2629,Auria,298
+2630,Banshgram,298
+2631,Bhadrabila,298
+2632,Bichhali,298
+2633,Chandibarpur,298
+2634,Habakhali,298
+2635,Kalora,298
+2636,Maijpara,298
+2637,Mulia,298
+2638,Sahabad,298
+2639,Shekhhati,298
+2640,Singasholelpur,298
+2641,Tularampur,298
+2642,Dighalia,297
+2643,Itna,297
+2644,Joypur,297
+2645,Kashipur,297
+2646,Kotakol,297
+2647,Lahoria,297
+2648,Laxmipasha,297
+2649,Lohagara,297
+2650,Mallikpur,297
+2651,Naldi,297
+2652,Noagram,297
+2653,Shalnagar,297
+2654,Babrahachla,296
+2655,Baoishona,296
+2656,Chanchuri,296
+2657,Hamidpur,296
+2658,Joynagar,296
+2659,Kalabaria,296
+2660,Khasial,296
+2661,Mauli,296
+2662,Paharbhanga,296
+2663,Peroli,296
+2664,Purulia,296
+2665,Salamabad,296
+2666,Iliasabad,296
+2667,Anulia,300
+2668,Assasuni,300
+2669,Baradal,300
+2670,Badhhata,300
+2671,Dargahpur,300
+2672,Khajra,300
+2673,Kulla,300
+2674,Pratapnagar,300
+2675,Sobhnali,300
+2676,Sreeula,300
+2677,Kadakati,300
+2678,Chandanpur,302
+2679,Deara,302
+2680,Koyla,302
+2681,Helatola,302
+2682,Jalalabad,302
+2683,Joynagar,302
+2684,Jugikhali,302
+2685,Kerakati,302
+2686,Keralkata,302
+2687,Kushadanga,302
+2688,Langoljhara,302
+2689,Sonabaria,302
+2690,Alipur,304
+2691,Agordari,304
+2692,Bekari,304
+2693,Bolli,304
+2694,Banshdaha,304
+2695,Bhomra,304
+2696,Bramharajpur,304
+2697,Fingri,304
+2698,Dhulihar,304
+2699,Ghona,304
+2700,Jhaudanga,304
+2701,Kuskhali,304
+2702,Labsa,304
+2703,Shibpur,304
+2704,Bharasimla,303
+2705,Bishnupur,303
+2706,Champaphul,303
+2707,Dakshinsreepur,303
+2708,Dhalbaria,303
+2709,Krishnanagar,303
+2710,Kushlia,303
+2711,Mathureshpur,303
+2712,Motala,303
+2713,Nalta,303
+2714,Ratanpur,303
+2715,Tarali,303
+2716,Debhata,301
+2717,Kulia,301
+2718,Noapara,301
+2719,Parulia,301
+2720,Sakhipur,301
+2721,Atulia,305
+2722,Surulia,305
+2723,Burigoalini,305
+2724,Gabura,305
+2725,Ishwaripur,305
+2726,Koikhali,305
+2727,Kashimari,305
+2728,Munshiganj,305
+2729,Nurnagar,305
+2730,Padmapukur,305
+2731,Ramjannagar,305
+2732,Shyamnagar,305
+2733,Dhandia,306
+2734,Islamkati,306
+2735,Jalalpur,306
+2736,Khalilnagar,306
+2737,Khaliskhali,306
+2738,Khesra,306
+2739,Kumira,306
+2740,Magura,306
+2741,Nagarghata,306
+2742,Sarulia,306
+2743,Tala,306
+2744,Tentulia,306
+2745,Bahadurabad,323
+2746,Char Amkhaoa,323
+2747,Chikajani,323
+2748,Chukaibari,323
+2749,Dangdhara,323
+2750,Dewanganj,323
+2751,Hatebhanga,323
+2752,Parramrampur,323
+2753,Belgachha,324
+2754,Char Goalini,324
+2755,Char Putimari,324
+2756,Chinaduli,324
+2757,Gaibandha,324
+2758,Goaler Char,324
+2759,Islampur,324
+2760,Kulkandi,324
+2761,Noarpara,324
+2762,Palbandha,324
+2763,Patharsi,324
+2764,Sapdhari,324
+2765,Banshchara,325
+2766,Digpaith,325
+2767,Ghoradhap,325
+2768,Itail,325
+2769,Kendua,325
+2770,Laxmir Char,325
+2771,Meshta,325
+2772,Narundi,325
+2773,Ranagachha,325
+2774,Rashidpur,325
+2775,Sahabajpur,325
+2776,Sharifpur,325
+2777,Sreepur,325
+2778,Titpalla,325
+2779,Tulsir Char,325
+2780,Adarbhita,326
+2781,Balijuri,326
+2782,Char Pakerdaha,326
+2783,Gunaritola,326
+2784,Jorekhali,326
+2785,Karaichura,326
+2786,Sidhuli,326
+2787,Adra,327
+2788,Char Banipakuria,327
+2789,Durmut,327
+2790,Fulkocha,327
+2791,Ghosher Para,327
+2792,Jhaugara,327
+2793,Kulia,327
+2794,Mahmudpur,327
+2795,Nangla,327
+2796,Nayanagar,327
+2797,Shyampur,327
+2798,Aona,328
+2799,Bhatara,328
+2800,Doail,328
+2801,Kamrabad,328
+2802,Mahadan,328
+2803,Pingna,328
+2804,Pogaldigha,328
+2805,Satpoa,328
+2806,Bagar Char,322
+2807,Bakshiganj,322
+2808,Battajore,322
+2809,Dhanua Kamalpur,322
+2810,Merur Char,322
+2811,Nilaxmia,322
+2812,Sadhu Para,322
+2813,Achargaon,338
+2814,Betagair,338
+2815,Chandipasha,338
+2816,Gangail,338
+2817,Jahangirpur,338
+2818,Kharua,338
+2819,Moazzempur,338
+2820,Musulli,338
+2821,Nandail,338
+2822,Rajgati,338
+2823,Sherpur,338
+2824,Singrail,338
+2825,Amtail,334
+2826,Bhubankura,334
+2827,Bildoara,334
+2828,Dhara,334
+2829,Dhurail,334
+2830,Gazirbhita,334
+2831,Haluaghat,334
+2832,Jugli,334
+2833,Kaichapur,334
+2834,Narail,334
+2835,Sakuai,334
+2836,Swadeshi,334
+2837,Baragram,337
+2838,Basati,337
+2839,Dattagaon,337
+2840,Dulla,337
+2841,Ghoga,337
+2842,Kashempur,337
+2843,Kheruajani,337
+2844,Kumarghata,337
+2845,Mankon,337
+2846,Tarati,337
+2847,Amiabari,329
+2848,Bailar,329
+2849,Bali Para,329
+2850,Dhanikhola,329
+2851,Harirampur,329
+2852,Kanihari,329
+2853,Kanthal,329
+2854,Mathbaria,329
+2855,Mokshapur,329
+2856,Rampur,329
+2857,Sakhua,329
+2858,Trishal,329
+2859,Bagber,330
+2860,Dakshin Maijpara,330
+2861,Dobaura,330
+2862,Gamaritala,330
+2863,Guatala,330
+2864,Ghoshgaon,330
+2865,Pora Kandulia,330
+2866,Barobaria,332
+2867,Char Algi,332
+2868,Datter Bazar,332
+2869,Gaffargaon,332
+2870,Jessora,332
+2871,Langair,332
+2872,Mashakhali,332
+2873,Niguari,332
+2874,Paithal,332
+2875,Panchbag,332
+2876,Rasulpur,332
+2877,Raona,332
+2878,Saltia,332
+2879,Tengabu,332
+2880,Usthi,332
+2881,Achhim Patuli,331
+2882,Bakta,331
+2883,Balian,331
+2884,Bhabanipur,331
+2885,Dewkhola,331
+2886,Enayetpur,331
+2887,Fulbaria,331
+2888,Kaladaha,331
+2889,Kushmail,331
+2890,Naogaon,331
+2891,Putijana,331
+2892,Radhakanai,331
+2893,Rangamatia,331
+2894,Akua,336
+2895,Ashtadhar,336
+2896,Bhabkhali,336
+2897,Borar Char,336
+2898,Char Ishwardia,336
+2899,Char Nilaxmia,336
+2900,Dapunia,336
+2901,Ghagra,336
+2902,Boyera (Kewatkhali),336
+2903,Khagdahar,336
+2904,Kushtia,336
+2905,Paranganj,336
+2906,Sirta,336
+2907,Atharabari,335
+2908,Barahit,335
+2909,Ishwarganj,335
+2910,Jatia,335
+2911,Maijbag,335
+2912,Maktola,335
+2913,Rajibpur,335
+2914,Sarisha,335
+2915,Sohagi,335
+2916,Tarundia,335
+2917,Uchakhila,335
+2918,Balia,339
+2919,Balikhan,339
+2920,Banihala,339
+2921,Bhaitkandi,339
+2922,Bishka,339
+2923,Baola,339
+2924,Dhakua,339
+2925,Galagaon,339
+2926,Kakni,339
+2927,Kamargaon,339
+2928,Kamaria,339
+2929,Payari,339
+2930,Fulpur,339
+2931,Rahimganj,339
+2932,Rambhadrapur,339
+2933,Rampur,339
+2934,Rupasi,339
+2935,Sawndhara,339
+2936,Singheshwar,339
+2937,Tarakanda,339
+2938,Achintapur,333
+2939,Bhangnamari,333
+2940,Bokainagar,333
+2941,Dewhakhula,333
+2942,Gauripur,333
+2943,Myenkanda,333
+2944,Maoha,333
+2945,Ramgopalpur,333
+2946,Sahanati,333
+2947,Sidhla,333
+2948,Bhaluka,340
+2949,Bharadoba,340
+2950,Birunia,340
+2951,Dakatia,340
+2952,Dhitpur,340
+2953,Habirbari,340
+2954,Kachina,340
+2955,Mallikbari,340
+2956,Meduary,340
+2957,Rajai,340
+2958,Uthura,340
+2959,Asujia,312
+2960,Balaishimul,312
+2961,Chirang,312
+2962,Dalpa,312
+2963,Garadoba,312
+2964,Ganda,312
+2965,Kandiura,312
+2966,Mashka,312
+2967,Muzaffarpur,312
+2968,Noapara,312
+2969,Paikura,312
+2970,Roailbari,312
+2971,Sandikona,312
+2972,Baniajan,307
+2973,Duaz,307
+2974,Loneshwar,307
+2975,Sawarmusia,307
+2976,Sukhari,307
+2977,Sunai,307
+2978,Teligati,307
+2979,Asma,308
+2980,Barhatta,308
+2981,Bausi,308
+2982,Chhiram,308
+2983,Roypur,308
+2984,Sahata,308
+2985,Singdha,308
+2986,Bakaljora,309
+2987,Birisiri,309
+2988,Chandigarh,309
+2989,Durgapur,309
+2990,Gawakandi,309
+2991,Kakairgara,309
+2992,Kullagara,309
+2993,Bara Khapan,311
+2994,Kailati,311
+2995,Kalmakanda,311
+2996,Kharnai,311
+2997,Lengura,311
+2998,Nazirpur,311
+2999,Pogla,311
+3000,Rangchhati,311
+3001,Fatehpur,313
+3002,Gobindasree,313
+3003,Kaitail,313
+3004,Madan,313
+3005,Maghan,313
+3006,Nayekpur,313
+3007,Tiasree,313
+3008,Changaon,313
+3009,Bara Kashia Birampur,314
+3010,Baratali Banihari,314
+3011,Gaglajore,314
+3012,Maghan Siadhar,314
+3013,Samaj Sahildeo,314
+3014,Suair,314
+3015,Tentulia,314
+3016,Amtala,315
+3017,Challisha,315
+3018,Dakshin Bishiura,315
+3019,Kailati,315
+3020,Kaliara Gabragati,315
+3021,Laxmiganj,315
+3022,Madanpur,315
+3023,Medni,315
+3024,Maugati,315
+3025,Rauha,315
+3026,Singher Bangla,315
+3027,Thakurakona,315
+3028,Agia,316
+3029,Bairati,316
+3030,Bishkakunia,316
+3031,Dhala Mulgaon,316
+3032,Ghagra,316
+3033,Gohalakanda,316
+3034,Hogla,316
+3035,Jaria,316
+3036,Khalishaur,316
+3037,Narandia,316
+3038,Purbadhala,316
+3039,Chakua,310
+3040,Khaliajuri,310
+3041,Krishnapur,310
+3042,Mendipur,310
+3043,Nagar,310
+3044,Gazipur,310
+3045,Baneshwardi,318
+3046,Chandrakona,318
+3047,Char Ashtadhar,318
+3048,Ganapaddi,318
+3049,Gourdwar,318
+3050,Nakla,318
+3051,Pathakata,318
+3052,Talki,318
+3053,Urpha,318
+3054,Dhansail,317
+3055,Gauripur,317
+3056,Hatibandha,317
+3057,Malijhikanda,317
+3058,Jhenaigati,317
+3059,Kangsa,317
+3060,Nalkura,317
+3061,Baghber,319
+3062,Jogania,319
+3063,Kakrakandi,319
+3064,Marichpuran,319
+3065,Nalitabari,319
+3066,Poragaon,319
+3067,Nunni,319
+3068,Nayabil,319
+3069,Rajnagar,319
+3070,Ramchandrakura,319
+3071,Rupnarayankura,319
+3072,Kalaspar,319
+3073,Bajitkhila,320
+3074,Balyer Char,320
+3075,Bhatsala,320
+3076,Betmari Ghughurakandi,320
+3077,Char Mucharia,320
+3078,Char Pakshimari,320
+3079,Char Sherpur,320
+3080,Dhala,320
+3081,Gazir Khamar,320
+3082,Kamarer Char,320
+3083,Kamaria,320
+3084,Laxmanpur,320
+3085,Pakuria,320
+3086,Rauha Betmari,320
+3087,Bhelua,321
+3088,Garjaripa,321
+3089,Gosaipur,321
+3090,Kakilakura,321
+3091,Kharia Kazir Char,321
+3092,Kurikahania,321
+3093,Rani Shimul,321
+3094,Singa Baruna,321
+3095,Sreebardi,321
+3096,Tantihati,321
+3097,Adamdighi,347
+3098,Chanpapur,347
+3099,Chhatiangram,347
+3100,Kundugram,347
+3101,Nasratpur,347
+3102,Shantahar,347
+3103,Erulia,348
+3104,Fanpore,348
+3105,Gokul,348
+3106,Lahiripara,348
+3107,Namuja,348
+3108,Nishindara,348
+3109,Noongola,348
+3110,Rajapur,348
+3111,Shabgram,348
+3112,Shakharia,348
+3113,Sekherkola,348
+3114,Bhandarbari,349
+3115,Chowkibari,349
+3116,Chikashi,349
+3117,Dhunat,349
+3118,Elangi,349
+3119,Gopalnagar,349
+3120,Goshaibari,349
+3121,Kalerpara,349
+3122,Mathurapur,349
+3123,Nimgachhi,349
+3124,Chamrul,350
+3125,Dhupchanchia,350
+3126,Gobindapur,350
+3127,Gunahar,350
+3128,Talora,350
+3129,Zianagar,350
+3130,Baliadighi,351
+3131,Dakshinpara,351
+3132,Durgahata,351
+3133,Gabtali,351
+3134,Kagoil,351
+3135,Mahishaban,351
+3136,Naruwala,351
+3137,Nasipur,351
+3138,Nepaltali,351
+3139,Rameshwarpur,351
+3140,Sonaroy,351
+3141,Birkedar,352
+3142,Durgapur,352
+3143,Jamgram,352
+3144,Kahaloo,352
+3145,Kalai,352
+3146,Malancho,352
+3147,Maruil,352
+3148,Narahotta,352
+3149,Paikar,352
+3150,Bhatgram,353
+3151,Bhatora,353
+3152,Burail,353
+3153,Nandigram,353
+3154,Thaltamajhgram,353
+3155,Bhelabari,354
+3156,Bohail,354
+3157,Chaluabari,354
+3158,Chandanbaisha,354
+3159,Fulbari,354
+3160,Hatsherpur,354
+3161,Kamalpur,354
+3162,Kazla,354
+3163,Karnibari,354
+3164,Kutubpur,354
+3165,Narchi,354
+3166,Sariakandi,354
+3167,Bhabanipur,356
+3168,Bishalpur,356
+3169,Garidaha,356
+3170,Khamarkandi,356
+3171,Khanpur,356
+3172,Kusumbi,356
+3173,Mirzapur,356
+3174,Shimabari,356
+3175,Sughat,356
+3176,Shah-Bandegi,356
+3177,Atmul,357
+3178,Bihar,357
+3179,Buriganj,357
+3180,Dewli,357
+3181,Kichak,357
+3182,Maidanhata,357
+3183,Majhihatta,357
+3184,Mokamtala,357
+3185,Pirab,357
+3186,Roynagar,357
+3187,Sayedpur,357
+3188,Shibganj,357
+3189,Balua,358
+3190,Digdair,358
+3191,Jorgachha,358
+3192,Madhupur,358
+3193,Pakulla,358
+3194,Sonatala,358
+3195,Tekanichukainagar,358
+3196,Amrul,355
+3197,Aria,355
+3198,Asekpur,355
+3199,Chupinagar,355
+3200,Gohail,355
+3201,Kharna,355
+3202,Khottapara,355
+3203,Madla,355
+3204,Majhira,355
+3205,Sultanganj,355
+3206,Alinagar,378
+3207,Bhangabari,378
+3208,Boalia,378
+3209,Chowdala,378
+3210,Gomastapur,378
+3211,Parbatipur,378
+3212,Radhanagar,378
+3213,Rahanpur,378
+3214,Bholahat,377
+3215,Daldali,377
+3216,Gohalbari,377
+3217,Jambaria,377
+3218,Fatepur,379
+3219,Kasba,379
+3220,Nachol,379
+3221,Nezampur,379
+3222,Alatuli,380
+3223,Balidanga,380
+3224,Barogharia,380
+3225,Char Anupnagar,380
+3226,Charbagdanga,380
+3227,Debinagar,380
+3228,Gobratala,380
+3229,Islampur,380
+3230,Jhilim,380
+3231,Maharajpur,380
+3232,Narayanpur,380
+3233,Ranihati,380
+3234,Shahajahanpur,380
+3235,Sundarpur,380
+3236,Binodpur,381
+3237,Chakkirti,381
+3238,Daipukuria,381
+3239,Dhainagar,381
+3240,Durlabhpur,381
+3241,Ghorapakhia,381
+3242,Kansat,381
+3243,Mobarakpur,381
+3244,Monakasha,381
+3245,Nayalabhanga,381
+3246,Panka,381
+3247,Chhatrajitpur,381
+3248,Shahbajpur,381
+3249,Shyampur,381
+3250,Uzirpur,381
+3251,Amdoi,343
+3252,Banbu,343
+3253,Chakbarkat,343
+3254,Bhadsa,343
+3255,Dhalahar,343
+3256,Dogachhi,343
+3257,Jamalpur,343
+3258,Mohammadabad,343
+3259,Puranapoil,343
+3260,Gopinathpur,342
+3261,Roykali,342
+3262,Rukindipur,342
+3263,Sonamukhi,342
+3264,Tilakpur,342
+3265,Alampur,345
+3266,Baratara,345
+3267,Barail,345
+3268,Khetlal,345
+3269,Mamudpur,345
+3270,Awlai,346
+3271,Atapur,346
+3272,Ayma Rasulpur,346
+3273,Bagjana,346
+3274,Balighata,346
+3275,Dharanji,346
+3276,Kusumba,346
+3277,Mohammudpur,346
+3278,Matrai,344
+3279,Punat,344
+3280,Udaypur,344
+3281,Zindarpur,344
+3282,Ahmmadabad,344
+3283,Bhimpur,363
+3284,Chandas,363
+3285,Cheragpur,363
+3286,Enayetpur,363
+3287,Hatur,363
+3288,Khajur,363
+3289,Mahadebpur,363
+3290,Raigaon,363
+3291,Safapur,363
+3292,Uttargram,363
+3293,Aihai,369
+3294,Goala,369
+3295,Patari,369
+3296,Sapahar,369
+3297,Shiranti,369
+3298,Tilna,369
+3299,Baragachh,368
+3300,Ekdala,368
+3301,Gona,368
+3302,Kaligram,368
+3303,Kashimpur,368
+3304,Mirat,368
+3305,Parail,368
+3306,Raninagar,368
+3307,Chhattor,367
+3308,Ganguria,367
+3309,Ghatnagar,367
+3310,Murshidpur,367
+3311,Nitorpur,367
+3312,Tentulia,367
+3313,Akbarpur,366
+3314,Amair,366
+3315,Dibar,366
+3316,Ghoshnagar,366
+3317,Krishnapur,366
+3318,Matindar,366
+3319,Nazipur,366
+3320,Nirmail,366
+3321,Patichara,366
+3322,Patnitala,366
+3323,Shihara,366
+3324,Agradigun,362
+3325,Alampur,362
+3326,Aranagar,362
+3327,Dhamoirhat,362
+3328,Isabpur,362
+3329,Jahanpur,362
+3330,Khelna,362
+3331,Umar,362
+3332,Baktarpur,364
+3333,Balihat,364
+3334,Barshail,364
+3335,Boalia,364
+3336,Moilagachhi,364
+3337,Chandipur,364
+3338,Dubalhat,364
+3339,Hapania,364
+3340,Hashaigarhi,364
+3341,Kirttipur,364
+3342,Shikarpur,364
+3343,Tilakpur,364
+3344,Bahadurpur,365
+3345,Bhabicha,365
+3346,Chandan Nagar,365
+3347,Hajinagar,365
+3348,Niamatpur,365
+3349,Parail,365
+3350,Rasulpur,365
+3351,Sreemantapur,365
+3352,Ahsanganj,359
+3353,Bhoupara,359
+3354,Bisha,359
+3355,Hatkalupara,359
+3356,Kalikapur,359
+3357,Maniari,359
+3358,Panchupur,359
+3359,Sahagol,359
+3360,Bhalain,361
+3361,Bharson,361
+3362,Bishnopur,361
+3363,Ganeshpur,361
+3364,Kalikapur,361
+3365,Kansupara,361
+3366,Kashab,361
+3367,Kusumba,361
+3368,Moinam,361
+3369,Manda,361
+3370,Nurullabad,361
+3371,Paranpur,361
+3372,Prasadpur,361
+3373,Tentulia,361
+3374,Adhaipur,360
+3375,Badalgachhi,360
+3376,Balubhara,360
+3377,Bilasbari,360
+3378,Kola,360
+3379,Mathurapur,360
+3380,Midhapur,360
+3381,Paharpur,360
+3382,Bagatipara,370
+3383,Dayarampur,370
+3384,Panka,370
+3385,Jamnagar,370
+3386,Faguardiar,370
+3387,Baraigram,371
+3388,Chandail,371
+3389,Gopalpur,371
+3390,Joari,371
+3391,Jonail,371
+3392,Majgaon,371
+3393,Nagar,371
+3394,Biaghat,372
+3395,Chapila,372
+3396,Tharabarisha,372
+3397,Khubjipur,372
+3398,Mushinda,372
+3399,Nazirpur,372
+3400,Arbar,373
+3401,Bilmaria,373
+3402,Chongdhupail,373
+3403,Duaria,373
+3404,Durduria,373
+3405,Arjanpur Baramhati,373
+3406,Ishwardi,373
+3407,Kadamchilan,373
+3408,Lalpur,373
+3409,Walia,373
+3410,Baraharishpur,374
+3411,Biprabelgharia,374
+3412,Brahmapur,374
+3413,Chhatni,374
+3414,Dighapotia,374
+3415,Halsa,374
+3416,Kafuria,374
+3417,Khajura,374
+3418,Laxmipur Kholabaria,374
+3419,Madhnagar,374
+3420,Piprul,374
+3421,Tebaria,374
+3422,Chamari,375
+3423,Chhatardighi,375
+3424,Chowgram,375
+3425,Dahia,375
+3426,Hatiandaha,375
+3427,Italy,375
+3428,Kalom,375
+3429,Lalore,375
+3430,Ramananda Khajura,375
+3431,Sherkole,375
+3432,Tajpur,375
+3433,Sukash,375
+3434,Brahmapur,376
+3435,Biprabelgharia,376
+3436,Khajura,376
+3437,Madhnagar,376
+3438,Piprul,376
+3439,Chandbha,383
+3440,Debottar,383
+3441,Ekdanta,383
+3442,Laxmipur,383
+3443,Majhpara,383
+3444,Dhalarchar,384
+3445,Haturia Nakalia,384
+3446,Jatsakini,384
+3447,Masumdia,384
+3448,Natun Bharenga,384
+3449,Puran Bharenga,384
+3450,Ruppur,384
+3451,Chakla,384
+3452,Kaitola,384
+3453,Beelchalan,386
+3454,Chhoykula,386
+3455,D.B. Gram,386
+3456,Failjana,386
+3457,Gunaigachha,386
+3458,Handial,386
+3459,Haripur,386
+3460,Madhurapur,386
+3461,Mulgram,386
+3462,Nimaichara,386
+3463,Parshwadanga,386
+3464,Banwarinagar,387
+3465,B.L. Bari,387
+3466,Demra,387
+3467,Faridpur,387
+3468,Hadol,387
+3469,Punguli,387
+3470,Dashuria,388
+3471,Laxmikundo,388
+3472,Muladuli,388
+3473,Pakshi,388
+3474,Sahapur,388
+3475,Solimpur,388
+3476,Sara,388
+3477,Ashtamanisha,385
+3478,Bhangura,385
+3479,Dilpashar,385
+3480,Khanmarich,385
+3481,Par Bhangura,385
+3482,Ahammadpur,391
+3483,Dulai,391
+3484,Hatkhali,391
+3485,Manikhat,391
+3486,Nazirganj,391
+3487,Raninagar,391
+3488,Sagarkandi,391
+3489,Satbaria,391
+3490,Sujanagar,391
+3491,Tantiband,391
+3492,Ar-Ataikola,390
+3493,Bhulbaria,390
+3494,Dhopadaha,390
+3495,Dhulauri,390
+3496,Gaurigram,390
+3497,Karamja,390
+3498,Kashinathpur,390
+3499,Khetupara,390
+3500,Nagdemra,390
+3501,Nandanpur,390
+3502,Ataikula,389
+3503,Bharara,389
+3504,Chartarapur,389
+3505,Dapunia,389
+3506,Dogachhi,389
+3507,Gayeshpur,389
+3508,Hemayetpur,389
+3509,Malnanchi,389
+3510,Maligachha,389
+3511,Sadullapur,389
+3512,Basudebpur,405
+3513,Char Ashariadaha,405
+3514,Dewpara,405
+3515,Godagari,405
+3516,Gogram,405
+3517,Matikata,405
+3518,Mohanpur,405
+3519,Pakri,405
+3520,Rishikul,405
+3521,Baragachhi,407
+3522,Damkur,407
+3523,Darshan Para,407
+3524,Haragram,407
+3525,Harian,407
+3526,Haripur,407
+3527,Hujuri Para,407
+3528,Parila,407
+3529,Arani,401
+3530,Bajubagha,401
+3531,Bausa,401
+3532,Gargari,401
+3533,Manigram,401
+3534,Pakuria,401
+3535,Aichpara,402
+3536,Barabihanoli,402
+3537,Basupara,402
+3538,Dwippur,402
+3539,Goalkandi,402
+3540,Gobinda Para,402
+3541,Ganipur,402
+3542,Hamirkutsha,402
+3543,Jhikra,402
+3544,Jogipara,402
+3545,Maria,402
+3546,Nordas,402
+3547,Sreepur,402
+3548,Sonadanga,402
+3549,Subhadanga,402
+3550,Kachari-Koalipara,402
+3551,Bhaya Laxmipur,403
+3552,Charghat,403
+3553,Yousufpur,403
+3554,Nimpara,403
+3555,Salua,403
+3556,Sardah,403
+3557,Deluabari,404
+3558,Pananagar,404
+3559,Jhaluka,404
+3560,Joynagar,404
+3561,Kismatgankoir,404
+3562,Maria,404
+3563,Nowpara,404
+3564,Bachshimuil,406
+3565,Dhurail,406
+3566,Ghasigram,406
+3567,Jahanabad,406
+3568,Mougachhi,406
+3569,Royghati,406
+3570,Baneshwar,408
+3571,Belpukuria,408
+3572,Bhalukgachhi,408
+3573,Jewpara,408
+3574,Puthia,408
+3575,Silmaria,408
+3576,Badhair,409
+3577,Kalma,409
+3578,Kamargaon,409
+3579,Pachandar,409
+3580,Soronjai,409
+3581,Talonda,409
+3582,Chanduria,409
+3583,Baruhas,399
+3584,Deshigram,399
+3585,Maidnagar,399
+3586,Magurabinod,399
+3587,Naogaon,399
+3588,Saguna,399
+3589,Talom,399
+3590,Tarash,399
+3591,Bangala,400
+3592,Barahar,400
+3593,Bara Pangashi,400
+3594,Durganagar,400
+3595,Hati Kumrul,400
+3596,Mohanpur,400
+3597,Panchakroshi,400
+3598,Purnimagati,400
+3599,Ramkrishnapur,400
+3600,Salonga,400
+3601,Salap,400
+3602,Udunia,400
+3603,Ullapara,400
+3604,Bagbati,398
+3605,Bahuli,398
+3606,Kaliaharipur,398
+3607,Kawrakhola,398
+3608,Khoksabari,398
+3609,Mechhra,398
+3610,Ratankandi,398
+3611,Sardabad,398
+3612,Shialkol,398
+3613,Chhangachh,398
+3614,Beltail,397
+3615,Gala,397
+3616,Garadaha,397
+3617,Jalalpur,397
+3618,Koijuri,397
+3619,Kayempur,397
+3620,Khukni,397
+3621,Narina,397
+3622,Porajona,397
+3623,Potajia,397
+3624,Rupabati,397
+3625,Habullah Nagar,397
+3626,Sonatani,397
+3627,Brahmagachh,396
+3628,Chandaikona,396
+3629,Dhamainagar,396
+3630,Dhangara,396
+3631,Dhubil,396
+3632,Ghurkha,396
+3633,Nalka,396
+3634,Pangashi,396
+3635,Sonakhara,396
+3636,Chargirish,395
+3637,Chalitadanga,395
+3638,Gondhail,395
+3639,Kazipur,395
+3640,Khasrabari,395
+3641,Maijbari,395
+3642,Natuarpara,395
+3643,Nishchintapur,395
+3644,Sonamukhi,395
+3645,Subhagachha,395
+3646,Tekani,395
+3647,Moonsurnagar,395
+3648,Ghorjan,393
+3649,Umarpur,393
+3650,Sadiachandpur,393
+3651,Sthal,393
+3652,Khashkawlia,393
+3653,Khashpukuria,393
+3654,Baghutia,393
+3655,Baradhul,392
+3656,Belkuchi,392
+3657,Bhangabari,392
+3658,Daulatpur,392
+3659,Dhakuriabera,392
+3660,Rajapur,392
+3661,Bhadraghat,394
+3662,Jamtair,394
+3663,Baol,394
+3664,Roydaulatpur,394
+3665,Azimpur,412
+3666,Bhandari,412
+3667,Birol,412
+3668,Bijora,412
+3669,Dhamair,412
+3670,Dharmapur,412
+3671,Farakkabad,412
+3672,Mangalpur,412
+3673,Ranipukur,412
+3674,Sahargram,412
+3675,Atgaon,413
+3676,Chhatail,413
+3677,Ishania,413
+3678,Murshidhat,413
+3679,Nafanagar,413
+3680,Rangaon,413
+3681,Abdulpur,414
+3682,Alokdihi,414
+3683,Amarpur,414
+3684,Auliapukur,414
+3685,Bhiail,414
+3686,Fatehjangpur,414
+3687,Isabpur,414
+3688,Nasratpur,414
+3689,Punotti,414
+3690,Saintara,414
+3691,Satnala,414
+3692,Tentulia,414
+3693,Aladipur,415
+3694,Betdighi,415
+3695,Daulatpur,415
+3696,Eluary,415
+3697,Kazihal,415
+3698,Khoyerbari,415
+3699,Shibnagar,415
+3700,Bulakipur,416
+3701,Ghoraghat,416
+3702,Palash,416
+3703,Shingra,416
+3704,Alihat,417
+3705,Boaldar,417
+3706,Khambamadhobpara,417
+3707,Dabor,418
+3708,Mukundapur,418
+3709,Ramchandrapur,418
+3710,Rasulpur,418
+3711,Sundarpur,418
+3712,Targaon,418
+3713,Alokjhari,419
+3714,Angarpara,419
+3715,Bhabki,419
+3716,Bherbheli,419
+3717,Goaldihi,419
+3718,Khamarpara,419
+3719,Askarpur,420
+3720,Auliapur,420
+3721,Chehelgazi,420
+3722,Fazilpur,420
+3723,Kamolpur,420
+3724,Shankarpur,420
+3725,Shashra,420
+3726,Sekhpura,420
+3727,Sundarban,420
+3728,Uthrail,420
+3729,Bhaduria,421
+3730,Binodpur,421
+3731,Daudpur,421
+3732,Gopalganj,421
+3733,Joypur,421
+3734,Kushdaha,421
+3735,Mahmudpur,421
+3736,Putimara,421
+3737,Shalkhuria,421
+3738,Benail,410
+3739,Mukundpur,410
+3740,Deor,410
+3741,Jotbani,410
+3742,Katla,410
+3743,Khanpur,410
+3744,Poliprayagpur,410
+3745,Belaichandi,422
+3746,Chandipur,422
+3747,Habra,422
+3748,Hamidpur,422
+3749,Harirampur,422
+3750,Manmathapur,422
+3751,Mominpur,422
+3752,Mostafapur,422
+3753,Palashbari,422
+3754,Rampur,422
+3755,Bhognagar,411
+3756,Moricha,411
+3757,Mohammadpur,411
+3758,Mohanpur,411
+3759,Nijpara,411
+3760,Palashbari,411
+3761,Paltapur,411
+3762,Shatagram,411
+3763,Satore,411
+3764,Shibrampur,411
+3765,Sujalpur,411
+3766,Bharatkhali,428
+3767,Bonarpar,428
+3768,Ghuridaha,428
+3769,Haldia,428
+3770,Jumarbari,428
+3771,Kachua,428
+3772,Kamalerpara,428
+3773,Padumsahar,428
+3774,Saghata,428
+3775,Muktinagar,428
+3776,Barisal,426
+3777,Betkapa,426
+3778,Harinathpur,426
+3779,Hossainpur,426
+3780,Kishorebari,426
+3781,Mohadipur,426
+3782,Manoharpur,426
+3783,Pobnapur,426
+3784,Palashbari,426
+3785,Bamundanga,429
+3786,Belka,429
+3787,Chandipur,429
+3788,Chhaparhati,429
+3789,Dahabanda,429
+3790,Dhopadanga,429
+3791,Haripur,429
+3792,Kanchibari,429
+3793,Kapashia,429
+3794,Ramjiban,429
+3795,Shantiram,429
+3796,Sarbananda,429
+3797,Sonaroy,429
+3798,Sreepur,429
+3799,Tarapur,429
+3800,Banagram,427
+3801,Bhathgram,427
+3802,Damodarpur,427
+3803,Dhaperhat,427
+3804,Faridpur,427
+3805,Idilpur,427
+3806,Jamalpur,427
+3807,Khordakomarpur,427
+3808,Kamarpara,427
+3809,Naldanga,427
+3810,Rasulpur,427
+3811,Darbanta,425
+3812,Gumaniganj,425
+3813,Harirampur,425
+3814,Kamardaha,425
+3815,Kamdia,425
+3816,Katabari,425
+3817,Kochasahar,425
+3818,Mahimaganj,425
+3819,Nakai,425
+3820,Rajahar,425
+3821,Rakhalburuz,425
+3822,Shalmara,425
+3823,Sapmara,425
+3824,Shakhahar,425
+3825,Shibpur,425
+3826,Taluk Kanupur,425
+3827,Fulbari,425
+3828,Badiakhali,424
+3829,Ballamjhar,424
+3830,Boali,424
+3831,Ghagoa,424
+3832,Gidari,424
+3833,Kamarjani,424
+3834,Kholahati,424
+3835,Kuptala,424
+3836,Laxmipur,424
+3837,Malibari,424
+3838,Mollarchar,424
+3839,Ramchandrapur,424
+3840,Sahapara,424
+3841,Erendabari,423
+3842,Fazlupur,423
+3843,Fulchhari,423
+3844,Gazaria,423
+3845,Kanchipara,423
+3846,Udakhali,423
+3847,Uria,423
+3848,Andharijhar,430
+3849,Bhurungamari,430
+3850,Boldia,430
+3851,Bangasonahat,430
+3852,Charbhurungamari,430
+3853,Joymanirhat,430
+3854,Paikerchhara,430
+3855,Pathardubi,430
+3856,Shilkhuri,430
+3857,Tilai,430
+3858,Rajibpur,431
+3859,Kodalkati,431
+3860,Mohanganj,431
+3861,Ashtamirchar,432
+3862,Chirmari,432
+3863,Nayarhat,432
+3864,Ramna,432
+3865,Raniganj,432
+3866,Thanahat,432
+3867,Baravita,433
+3868,Bhangamore,433
+3869,Fulbari,433
+3870,Kashipur,433
+3871,Naodanga,433
+3872,Shimulbari,433
+3873,Belgachha,434
+3874,Bhogdanga,434
+3875,Ghogadaha,434
+3876,Holukhan,434
+3877,Jatrapur,434
+3878,Kanthalbari,434
+3879,Mogalbasa,434
+3880,Panchgachhi,434
+3881,Ballaverkhas,435
+3882,Bamandanga,435
+3883,Berubari,435
+3884,Bhitarband,435
+3885,Hasnabad,435
+3886,Kachakata,435
+3887,Kaliganj,435
+3888,Kedar,435
+3889,Narayanpur,435
+3890,Newashi,435
+3891,Noonkhawa,435
+3892,Royganj,435
+3893,Ramkhan,435
+3894,Santoshpur,435
+3895,Bandaber,437
+3896,Dantbhanga,437
+3897,Jadurchar,437
+3898,Rowmari,437
+3899,Shailmari,437
+3900,Bidyananda,436
+3901,Chakirpashar,436
+3902,Chhinai,436
+3903,Gharialdanga,436
+3904,Nazimkhan,436
+3905,Rajarhat,436
+3906,Umar Majid,436
+3907,Begumganj,438
+3908,Bazra,438
+3909,Buraburi,438
+3910,Daldalia,438
+3911,Dhamosreni,438
+3912,Dharanibari,438
+3913,Durgapur,438
+3914,Gunaigachh,438
+3915,Hatia,438
+3916,Pandul,438
+3917,Saheber Alga,438
+3918,Tabakpur,438
+3919,Thetrai,438
+3920,Bawra,443
+3921,Jagatbera,443
+3922,Jongra,443
+3923,Kuchhlibari,443
+3924,Patgram,443
+3925,Sreerampur,443
+3926,Dahagram,443
+3927,Barabari,442
+3928,Gokunda,442
+3929,Harati,442
+3930,Khuniagachh,442
+3931,Kulaghat,442
+3932,Mogalhat,442
+3933,Mahendranagar,442
+3934,Panchagram,442
+3935,Rajpur,442
+3936,Bhotmari,441
+3937,Chalbala,441
+3938,Chandrapur,441
+3939,Dalagram,441
+3940,Goral,441
+3941,Kakina,441
+3942,Madati,441
+3943,Tushbhandar,441
+3944,Barakhata,440
+3945,Bhelaguri,440
+3946,Dhauabari,440
+3947,Goddimari,440
+3948,Gotamari,440
+3949,Nowdabash,440
+3950,Patikapara,440
+3951,Shingimari,440
+3952,Sindurna,440
+3953,Tongbhanga,440
+3954,Bhadai,439
+3955,Bhelabari,439
+3956,Durgapur,439
+3957,Kamalabari,439
+3958,Mahishkhocha,439
+3959,Palshi,439
+3960,Saptibari,439
+3961,Sarpukur,439
+3962,Balapara,444
+3963,Dimla,444
+3964,Gayabari,444
+3965,Jhunagachhchapani,444
+3966,Khalishachapani,444
+3967,Khogakharibari,444
+3968,Naotara,444
+3969,Paschimchhatnai,444
+3970,Purbachhatnai,444
+3971,Tepakharibari,444
+3972,Bamunia,445
+3973,Bhogdaburi,445
+3974,Boragari,445
+3975,Domar,445
+3976,Gomnati,445
+3977,Harinchara,445
+3978,Jorabari,445
+3979,Ketkibari,445
+3980,Pangamutakpur,445
+3981,Sonaroy,445
+3982,Balagram,446
+3983,Daoabari,446
+3984,Dharmapal,446
+3985,Golmunda,446
+3986,Golna,446
+3987,Koimari,446
+3988,Kanthali,446
+3989,Khutamara,446
+3990,Mirganj,446
+3991,Shimulbari,446
+3992,Shoulmari,446
+3993,Bahagili,447
+3994,Barabhita,447
+3995,Chandkhana,447
+3996,Garagram,447
+3997,Kishoreganj,447
+3998,Magura,447
+3999,Nitai,447
+4000,Putimari,447
+4001,Ranachandi,447
+4002,Chaprasaramjani,448
+4003,Charaikhola,448
+4004,Chaorabargachha,448
+4005,Gorgram,448
+4006,Itakhola,448
+4007,Kachukata,448
+4008,Khokshabari,448
+4009,Kundupukur,448
+4010,Laxmichap,448
+4011,Panchapukur,448
+4012,Palashbari,448
+4013,Ramnagar,448
+4014,Songolshi,448
+4015,Sonaroy,448
+4016,Tupamari,448
+4017,Bangalipur,449
+4018,Botlagari,449
+4019,Kamarpukur,449
+4020,Khatamadhupur,449
+4021,Kushirambelpukur,449
+4022,Barashashi,451
+4023,Benghari Banagram,451
+4024,Boda,451
+4025,Chandanbari,451
+4026,Jhaloishalshiri,451
+4027,Kajaldighi Kaliaganj,451
+4028,Maidandighi,451
+4029,Marea Bamanhat,451
+4030,Panchpir,451
+4031,Sakoa,451
+4032,Alowakhaowa,450
+4033,Balarampur,450
+4034,Dhamor,450
+4035,Mirzapur,450
+4036,Radhanagar,450
+4037,Toreya,450
+4038,Changthihazaradanga,452
+4039,Chilahati,452
+4040,Dandapal,452
+4041,Debiduba,452
+4042,Debiganj,452
+4043,Pamuli,452
+4044,Shaldanga,452
+4045,Sonahar,452
+4046,Sundardighi,452
+4047,Tepriganj,452
+4048,Amarkhana,453
+4049,Chaklahat,453
+4050,Hafizabad,453
+4051,Dhakkamara,453
+4052,Garinabari,453
+4053,Haribhasha,453
+4054,Kamat Kajaldighi,453
+4055,Magura,453
+4056,Panchagarh,453
+4057,Satmera,453
+4058,Banglabandha,454
+4059,Bhajonpur,454
+4060,Debnagar,454
+4061,Buraburi,454
+4062,Salbahan,454
+4063,Tentulia,454
+4064,Tirnoihat,454
+4065,Annadannagar,460
+4066,Chhaola,460
+4067,Itakumari,460
+4068,Koikuri,460
+4069,Kalyani,460
+4070,Kandi,460
+4071,Parul,460
+4072,Pirgachha,460
+4073,Tambulpur,460
+4074,Chandanpat,458
+4075,Darshana,458
+4076,Haridebpur,458
+4077,Mominpur,458
+4078,Parswuram,458
+4079,Rajendrapur,458
+4080,Sadyapushkarini,458
+4081,Satgara,458
+4082,Tampat,458
+4083,Tapodhon,458
+4084,Uttam,458
+4085,Bara Alampur,461
+4086,Bara Dargah,461
+4087,Bhendabari,461
+4088,Chaitrakal,461
+4089,Chatra,461
+4090,Kabilpur,461
+4091,Kumedpur,461
+4092,Madankhali,461
+4093,Mithipur,461
+4094,Panchgachhi,461
+4095,Pirganj,461
+4096,Roypur,461
+4097,Ramnathpur,461
+4098,Shanerhat,461
+4099,Tukuria,461
+4100,Baluamasimpur,459
+4101,Barabala,459
+4102,Bara Hazratpur,459
+4103,Balarhat,459
+4104,Bhangni,459
+4105,Chengmari,459
+4106,Durgapur,459
+4107,Imadpur,459
+4108,Gopalpur,459
+4109,Kafrikhal,459
+4110,Khoragachh,459
+4111,Latibpur,459
+4112,Malonpur,459
+4113,Mirzapur,459
+4114,Moyenpur,459
+4115,Pairaband,459
+4116,Ranipukur,459
+4117,Alampur,462
+4118,Ikarchali,462
+4119,Hariarkuthi,462
+4120,Kursha,462
+4121,Sayar,462
+4122,Haragachh,457
+4123,Kaunia Balapara,457
+4124,Kursha,457
+4125,Sarai,457
+4126,Shahidbagh,457
+4127,Tepamadhupur,457
+4128,Alambiditor,456
+4129,Barabil,456
+4130,Betgari,456
+4131,Gangachara,456
+4132,Gajaghanta,456
+4133,Kholeya,456
+4134,Kolkond,456
+4135,Laxmitari,456
+4136,Maraneya,456
+4137,Nohali,456
+4138,Bishnupur,455
+4139,Damodarpur,455
+4140,Gopalpur,455
+4141,Gopinathpur,455
+4142,Kutubpur,455
+4143,Lohanipara,455
+4144,Madhupur,455
+4145,Radhanagar,455
+4146,Ramnathpur,455
+4147,Kalupara,455
+4148,Akacha,467
+4149,Akhanagar,467
+4150,Auliapur,467
+4151,Begunbari,467
+4152,Balia,467
+4153,Baragaon,467
+4154,Chilarang,467
+4155,Debipur,467
+4156,Goreya,467
+4157,Jagannathpur,467
+4158,Jamalpur,467
+4159,Mohammadpur,467
+4160,Nargun,467
+4161,Rahimanpur,467
+4162,Roypur,467
+4163,Rajagaon,467
+4164,Ruheea,467
+4165,Salandar,467
+4166,Sukanpukuri,467
+4167,Amjankhore,463
+4168,Barabari,463
+4169,Barapalashbari,463
+4170,Bhanor,463
+4171,Charol,463
+4172,Dhantola,463
+4173,Duosuo,463
+4174,Paria,463
+4175,Amgaon,464
+4176,Bakua,464
+4177,Bhaturia,464
+4178,Dangipara,464
+4179,Gedura,464
+4180,Haripur,464
+4181,Beerchuna,465
+4182,Bhomradaha,465
+4183,Daulatpur,465
+4184,Hajipur,465
+4185,Jabarhat,465
+4186,Khangaon,465
+4187,Kosharaniganj,465
+4188,Pirganj,465
+4189,Sayedpur,465
+4190,Sengaon,465
+4191,Bachor,466
+4192,Dharmagarh,466
+4193,Hossaingaon,466
+4194,Kashipur,466
+4195,Lehemba,466
+4196,Nekmarad,466
+4197,Nanduar,466
+4198,Rator,466
+4199,Uttar Purba Baniachang,470
+4200,Uttar Paschim Baniyachang,470
+4201,Dakshin Purba Baniyachang,470
+4202,Dakshin Paschim Baniyachan,470
+4203,Baraiuri,470
+4204,Daulatpur,470
+4205,Kagapasha,470
+4206,Khagaura,470
+4207,Makrampur,470
+4208,Mandari,470
+4209,Muradpur,470
+4210,Pailarkandi,470
+4211,Pukhra,470
+4212,Sujatpur,470
+4213,Subidpur,470
+4214,Azmiriganj,468
+4215,Badarpur,468
+4216,Jalsukha,468
+4217,Kakailsew,468
+4218,Shibpasha,468
+4219,Auskandi,475
+4220,Bausha,475
+4221,Debpara,475
+4222,Dighalbak,475
+4223,Gaznaipur,475
+4224,Inathganj,475
+4225,Kalair Banga,475
+4226,Kargaon,475
+4227,Kurshi,475
+4228,Nabiganj,475
+4229,Paniunda,475
+4230,Purba Bara Bakhair,475
+4231,Paschim Bara Bhakhair,475
+4232,Adaur,474
+4233,Bagasura,474
+4234,Bahara,474
+4235,Bulla,474
+4236,Chhatian,474
+4237,Chowmohani,474
+4238,Dharmaghar,474
+4239,Jagadishpur,474
+4240,Noapara,474
+4241,Shahjahanpur,474
+4242,Andiura,474
+4243,Bamai,473
+4244,Bulla,473
+4245,Karab,473
+4246,Lakhai,473
+4247,Muriauk,473
+4248,Murakari,473
+4249,Gopaya,472
+4250,Laskarpur,472
+4251,Lukhra,472
+4252,Nizampur,472
+4253,Nurpur,472
+4254,Poil,472
+4255,Raziura,472
+4256,Richi,472
+4257,Saistaganj,472
+4258,Tegharia,472
+4259,Ahammadabad,471
+4260,Chunarughat,471
+4261,Deorgach,471
+4262,Gazipur,471
+4263,Miashi,471
+4264,Paikpara,471
+4265,Ranigaon,471
+4266,Shankhola,471
+4267,Shatiajuri,471
+4268,Ubahata,471
+4269,Bahubal,469
+4270,Bhadeshwar,469
+4271,Lamatashi,469
+4272,Mirpur,469
+4273,Putijuri,469
+4274,Satkapan,469
+4275,Snanghat,469
+4276,Baramchal,480
+4277,Bhatera,480
+4278,Bhakshimail,480
+4279,Bramhan Bazar,480
+4280,Hajipur,480
+4281,Joychandi,480
+4282,Kadirpur,480
+4283,Karmadha,480
+4284,Kulaura,480
+4285,Prithempasha,480
+4286,Routhgaon,480
+4287,Sharifpur,480
+4288,Tilagaon,480
+4289,Adampur,479
+4290,Alinagar,479
+4291,Islampur,479
+4292,Kamalganj,479
+4293,Madhabpur,479
+4294,Munshi Bazar,479
+4295,Patanushar,479
+4296,Rahimpur,479
+4297,Shamshernagar,479
+4298,Akhailkura,481
+4299,Amtail,481
+4300,Chandnighat,481
+4301,Ekatuna,481
+4302,Giasnagar,481
+4303,Kamalpur,481
+4304,Kanakpur,481
+4305,Khalilpur,481
+4306,Manumukh,481
+4307,Mostafapur,481
+4308,Nazirabad,481
+4309,Kagabala,481
+4310,Fatehpur,482
+4311,Kamar Chak,482
+4312,Mansurnagar,482
+4313,Munshi Bazar,482
+4314,Panchgaon,482
+4315,Rajnagar,482
+4316,Tengra,482
+4317,Uttarbhag,482
+4318,Ashidron,483
+4319,Bhunabir,483
+4320,Kashipur,483
+4321,Kalighat,483
+4322,Mirzapur,483
+4323,Rajghat,483
+4324,Satgoan,483
+4325,Sindurkhan,483
+4326,Sreemangal,483
+4327,Paschim Juri,478
+4328,Purba Juri,478
+4329,Fultala,478
+4330,Goalbari,478
+4331,Jaifarnagar,478
+4332,Sagarnal,478
+4333,Baralekha,477
+4334,Barni,477
+4335,Dakshin Shahabajpur,477
+4336,Dakshin Dakshinbhagh,477
+4337,Dasher Bazar,477
+4338,Nij Bahadurpur,477
+4339,Sujanagar,477
+4340,Uttar Dakshinbhag,477
+4341,Uttar Shahabajpur,477
+4342,Talimpur,477
+4343,Dorgapasha,486
+4344,Joykalas,486
+4345,Patharia,486
+4346,Shimulbak,486
+4347,Paschim Birgaon,486
+4348,Paschim Pagla,486
+4349,Purba Birgoan,486
+4350,Purba Pagla,486
+4351,Dakshin Badaghat,484
+4352,Dhanpur,484
+4353,Fatehpur,484
+4354,Palash,484
+4355,Salukabad,484
+4356,Balijuri,494
+4357,Dakshin Sreepur,494
+4358,Dakshin Baradal,494
+4359,Tahirpur,494
+4360,Badaghat,494
+4361,Uttar Baradal,494
+4362,Uttar Sreepur,494
+4363,Aptabnagar,493
+4364,Gourararang,493
+4365,Laxmansree,493
+4366,Mohanpur,493
+4367,Mollah Para,493
+4368,Rangar Char,493
+4369,Surma,493
+4370,Jahangirnagar,493
+4371,Atgaon,492
+4372,Bahara,492
+4373,Habibpur,492
+4374,Salla,492
+4375,Beheli,491
+4376,Bhimkhali,491
+4377,Fenarbak,491
+4378,Jamalganj,491
+4379,Sachna Bazar,491
+4380,Asharkandi,490
+4381,Haldipur,490
+4382,Kalkalia,490
+4383,Mirpur,490
+4384,Pailgaon,490
+4385,Patali,490
+4386,Raniganj,490
+4387,Sayedpur-Saharpara,490
+4388,Fenchuganj,490
+4389,Ghilachora,490
+4390,Maizgao,490
+4391,Bangla Bazar,489
+4392,Dowarabazar,489
+4393,Duhalia,489
+4394,Laxmipur,489
+4395,Mannargaon,489
+4396,Narsingpur,489
+4397,Pandergaon,489
+4398,Dakshin Sukhair,488
+4399,Chamardani,488
+4400,Dakshin Bongshikunda,488
+4401,Dharmapasha,488
+4402,Joysree,488
+4403,Madhyanagar,488
+4404,Paikorati,488
+4405,Selborash,488
+4406,Uttar Sukhair Rajapur,488
+4407,Uttar Bangshikunda,488
+4408,Bhatgaon,485
+4409,Chhatak,485
+4410,Charmahalla,485
+4411,Dular Bazar,485
+4412,Dakshin Khurma,485
+4413,Islampur,485
+4414,Jawa Bazar,485
+4415,Kalaruka,485
+4416,Noarai,485
+4417,Sedergaon,485
+4418,Afzalabad,485
+4419,Sing Chapair,485
+4420,Uttar Khurma,485
+4421,Bhati Para,487
+4422,Charnar Char,487
+4423,Sarmangal,487
+4424,Jasdhal,487
+4425,Karimpur,487
+4426,Kulanja,487
+4427,Rafinagar,487
+4428,Rajanagar,487
+4429,Taral,487
+4430,Islampur Paschim,498
+4431,Ranikhali Uttar,498
+4432,Telikhal,498
+4433,Islampur Purba,498
+4434,Ichhakalash,498
+4435,Dakshin Ranikhai,498
+4436,Bara Chatul,504
+4437,Dakshin Banigram,504
+4438,Jhingabari,504
+4439,Kanaighat,504
+4440,Paschim Laxmi Prasad,504
+4441,Shatbank,504
+4442,Purba Laxmi Prasad,504
+4443,Purba Dighirpar,504
+4444,Rajaganj,504
+4445,Baraikandi,499
+4446,Daudpur,499
+4447,Jalalpur,499
+4448,Kuchai,499
+4449,Lal Bazar,499
+4450,Mogal Bazar,499
+4451,Mollargaon,499
+4452,Silam,499
+4453,Tetli,499
+4454,Barahal,507
+4455,Bara Thakuri,507
+4456,Birasree,507
+4457,Kas Kanakpur,507
+4458,Kajalshah,507
+4459,Kholachhara,507
+4460,Manikpur,507
+4461,Sultanpur,507
+4462,Zakiganj,507
+4463,Hatkhola,506
+4464,Jalalabad,506
+4465,Kandigaon,506
+4466,Khadimnagar,506
+4467,Khadim Para,506
+4468,Mogalgaon,506
+4469,Tuker Bazar,506
+4470,Tultikar,506
+4471,Charikata,503
+4472,Darbasta,503
+4473,Fatehpur,503
+4474,Jointapur,503
+4475,Nijpat,503
+4476,Chikangul,503
+4477,Alirgaon,502
+4478,Fatehpur,502
+4479,Lengura,502
+4480,Nandirgaon,502
+4481,Paschim Jaflong,502
+4482,Purba Jaflong,502
+4483,Rustampur,502
+4484,Towakul,502
+4485,Fenchuganj,500
+4486,Gilachhara,500
+4487,Maijgaon,500
+4488,Alankari,497
+4489,Bishwanath,497
+4490,Daulatpur,497
+4491,Deokalas,497
+4492,Dasghar,497
+4493,Khazanchi,497
+4494,Lama Kazi,497
+4495,Rampasha,497
+4496,Alinagar,496
+4497,Mollahpur,496
+4498,Charkhai,496
+4499,Dubag,496
+4500,Kurar Bazar,496
+4501,Lauta,496
+4502,Mathiura,496
+4503,Muria,496
+4504,Sheola,496
+4505,Tilpara,496
+4506,Balaganj,495
+4507,Boaljur,495
+4508,Buronga Bazar,495
+4509,Dayamir,495
+4510,Dewan Bazar,495
+4511,Goal Bazar,495
+4512,Omarpur,495
+4513,Osmanpur,495
+4514,Pashchim Gauripur,495
+4515,Purba Pawlanpur,495
+4516,Purba Gauripur,495
+4517,Sadipur,495
+4518,Tajpur,495
+4519,Pashchim Pawlanpur,495
+4520,Paschim Amura,501
+4521,Bagha,501
+4522,Bhadeshwar,501
+4523,Badhubari,501
+4524,Dhaka Dakshin,501
+4525,Fulbari,501
+4526,Golabganj,501
+4527,Laxmi Pasha,501
+4528,Sharifganj,501
+4529,Lakshanaband,501
+4530,Uttar Bade Pasha,501
+4531,Umarpur,505
+4532,Sadipur,505
+4533,Usmanpur,505
+4534,Tajpur,505
+4535,Goalabazar,505
+4536,Doyamir,505
+4537,Burungabazar,505
+4538,Poshchim Poilonpur,505
