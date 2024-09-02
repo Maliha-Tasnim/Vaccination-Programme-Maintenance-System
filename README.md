@@ -10,6 +10,7 @@ The core objectives is ensuring proper monitoring, accountability, and transpare
 
 For the front-end part HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery, and XML are used. For the back-end PHP, MySQL, and Java are used. To put all these into effect a range of integrated development environments and editors like PhpStorm, Sublime Text, XAMPP, ngrok, and Android Studio are used. Finally a database is developed using MySQL in order to store all the necessary information like EPI centres’ details, upcoming holiday events, possible vaccination slots, etc. Keeping the importance of public-private partnership in mind, this project ensure the full coverage of nationwide vaccination programmes through proper monitoring - from the root level to the top administration.
 
+## Project Demo
 
 
 
